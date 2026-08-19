@@ -1,13 +1,7 @@
 {
-  "items": [
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-      "items": [],
-      "title": "License"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T10:13:41.927Z",
+    "last_updated": "2026-08-19T10:14:06.832Z",
     "original_repository": "bayandin/awesome-awesomeness",
     "original_repository_sha": "c35ea15c5db11409f2bd6467725bcec57d9689df",
     "enhanced_repository": "enhansome/enhansome-awesomeness",
