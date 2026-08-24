@@ -1,7 +1,5190 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Programming Languages Package Manager",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Package-Manager",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117060841,
+                "language": null,
+                "last_commit": "2025-05-20T08:42:29Z",
+                "owner": "damon-kwok",
+                "repo": "awesome-package-manager",
+                "stars": 203
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Programming Languages",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21540759,
+                "language": "Go",
+                "last_commit": "2026-08-21T06:27:18Z",
+                "owner": "avelino",
+                "repo": "awesome-go",
+                "stars": 182108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C/C++",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21935031,
+                "language": null,
+                "last_commit": "2026-08-22T08:36:07Z",
+                "owner": "fffaraz",
+                "repo": "awesome-cpp",
+                "stars": 72907
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21938243,
+                "language": "Rust",
+                "last_commit": "2026-08-24T07:28:27Z",
+                "owner": "rust-unofficial",
+                "repo": "awesome-rust",
+                "stars": 58956
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21648001,
+                "language": null,
+                "last_commit": "2026-08-24T00:59:50Z",
+                "owner": "akullpp",
+                "repo": "awesome-java",
+                "stars": 48835
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shell",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21552971,
+                "language": null,
+                "last_commit": "2025-08-28T14:40:51Z",
+                "owner": "alebcay",
+                "repo": "awesome-shell",
+                "stars": 37496
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "React",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22670857,
+                    "language": null,
+                    "last_commit": "2026-08-20T07:58:12Z",
+                    "owner": "enaqx",
+                    "repo": "awesome-react",
+                    "stars": 74383
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VueJS",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44571718,
+                    "language": null,
+                    "last_commit": "2026-07-24T10:16:04Z",
+                    "owner": "vuejs",
+                    "repo": "awesome-vue",
+                    "stars": 73535
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Node.js",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Cross-platform Node.js",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 48332249,
+                        "language": null,
+                        "last_commit": "2023-02-07T20:03:47Z",
+                        "owner": "bcoe",
+                        "repo": "awesome-cross-platform-nodejs",
+                        "stars": 1207
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Node ESM",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 288226829,
+                        "language": null,
+                        "last_commit": "2023-04-18T20:07:32Z",
+                        "owner": "v1rtl",
+                        "repo": "awesome-node-esm",
+                        "stars": 92
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21737266,
+                    "language": null,
+                    "last_commit": "2026-05-03T08:24:10Z",
+                    "owner": "sindresorhus",
+                    "repo": "awesome-nodejs",
+                    "stars": 66611
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Angular 2",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41718185,
+                    "language": "HTML",
+                    "last_commit": "2026-08-23T15:37:03Z",
+                    "owner": "PatrickJS",
+                    "repo": "awesome-angular",
+                    "stars": 10064
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JavaScript Learning Resources",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 73953958,
+                    "language": null,
+                    "last_commit": "2026-02-01T20:52:43Z",
+                    "owner": "micromata",
+                    "repo": "awesome-javascript-learning",
+                    "stars": 5842
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Svelte",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 83188316,
+                    "language": null,
+                    "last_commit": "2021-08-20T16:38:23Z",
+                    "owner": "sveltejs",
+                    "repo": "integrations",
+                    "stars": 621
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Koa",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 69747857,
+                    "language": null,
+                    "last_commit": "2020-10-27T22:13:39Z",
+                    "owner": "ellerbrock",
+                    "repo": "awesome-koa",
+                    "stars": 420
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ember.js",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22416143,
+                    "language": null,
+                    "last_commit": "2019-07-12T19:20:03Z",
+                    "owner": "nmec",
+                    "repo": "awesome-ember",
+                    "stars": 299
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 21393871,
+                "language": null,
+                "last_commit": "2026-08-19T17:00:42Z",
+                "owner": "sorrycc",
+                "repo": "awesome-javascript",
+                "stars": 35021
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CakePHP",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22418008,
+                    "language": null,
+                    "last_commit": "2026-08-21T18:27:29Z",
+                    "owner": "FriendsOfCake",
+                    "repo": "awesome-cakephp",
+                    "stars": 937
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 14705691,
+                "language": null,
+                "last_commit": "2026-07-13T19:44:57Z",
+                "owner": "ziadoz",
+                "repo": "awesome-php",
+                "stars": 32672
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go Patterns",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48003886,
+                "language": "Go",
+                "last_commit": "2024-05-14T01:07:28Z",
+                "owner": "tmrts",
+                "repo": "go-patterns",
+                "stars": 28195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Elixir",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21402627,
+                "language": "Elixir",
+                "last_commit": "2025-10-12T18:06:13Z",
+                "owner": "h4cc",
+                "repo": "awesome-elixir",
+                "stars": 13164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Postgres",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40072159,
+                "language": null,
+                "last_commit": "2026-05-21T14:10:48Z",
+                "owner": "dhamaniasad",
+                "repo": "awesome-postgres",
+                "stars": 12057
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40936978,
+                "language": "Kotlin",
+                "last_commit": "2026-08-23T16:44:33Z",
+                "owner": "Heapy",
+                "repo": "awesome-kotlin",
+                "stars": 11376
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scala",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21604505,
+                "language": "Python",
+                "last_commit": "2024-09-20T08:21:10Z",
+                "owner": "lauris",
+                "repo": "awesome-scala",
+                "stars": 9237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22003158,
+                "language": "R",
+                "last_commit": "2025-09-18T16:46:19Z",
+                "owner": "qinwf",
+                "repo": "awesome-R",
+                "stars": 6507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CMake",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67722380,
+                "language": null,
+                "last_commit": "2026-08-13T12:16:11Z",
+                "owner": "onqtam",
+                "repo": "awesome-cmake",
+                "stars": 5419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Elm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35763170,
+                "language": null,
+                "last_commit": "2026-07-21T04:46:24Z",
+                "owner": "sporto",
+                "repo": "awesome-elm",
+                "stars": 3685
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crystal",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37688007,
+                "language": "Crystal",
+                "last_commit": "2026-08-19T14:53:17Z",
+                "owner": "veelenga",
+                "repo": "awesome-crystal",
+                "stars": 3558
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Haskell",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21791844,
+                "language": "Python",
+                "last_commit": "2026-08-03T08:39:39Z",
+                "owner": "krispo",
+                "repo": "awesome-haskell",
+                "stars": 3284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OCaml",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22212866,
+                "language": null,
+                "last_commit": "2026-06-15T10:36:54Z",
+                "owner": "ocaml-community",
+                "repo": "awesome-ocaml",
+                "stars": 3108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoHotkey",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22615356,
+                "language": null,
+                "last_commit": "2023-01-24T23:51:33Z",
+                "owner": "ahkscript",
+                "repo": "awesome-AutoHotkey",
+                "stars": 3071
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MongoDB",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52230198,
+                "language": null,
+                "last_commit": "2026-08-05T15:52:41Z",
+                "owner": "ramnes",
+                "repo": "awesome-mongodb",
+                "stars": 2672
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MySQL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32276625,
+                "language": "Python",
+                "last_commit": "2026-08-17T12:26:05Z",
+                "owner": "shlomi-noach",
+                "repo": "awesome-mysql",
+                "stars": 2609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "V",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195092243,
+                "language": null,
+                "last_commit": "2026-08-15T15:21:51Z",
+                "owner": "vlang",
+                "repo": "awesome-v",
+                "stars": 2104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coronavirus",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246570646,
+                "language": "TypeScript",
+                "last_commit": "2024-05-02T00:59:20Z",
+                "owner": "soroushchehresa",
+                "repo": "awesome-coronavirus",
+                "stars": 1569
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Julia",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13084223,
+                "language": "Julia",
+                "last_commit": "2023-12-07T19:45:52Z",
+                "owner": "svaksha",
+                "repo": "Julia.jl",
+                "stars": 1513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "F#",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69236015,
+                "language": "F#",
+                "last_commit": "2026-03-21T15:21:56Z",
+                "owner": "fsprojects",
+                "repo": "awesome-fsharp",
+                "stars": 1431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ansible",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 34946576,
+                "language": null,
+                "last_commit": "2024-04-22T18:01:45Z",
+                "owner": "jdauphant",
+                "repo": "awesome-ansible",
+                "stars": 1003
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoIt",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41612408,
+                "language": null,
+                "last_commit": "2022-08-21T12:04:57Z",
+                "owner": "J2TEAM",
+                "repo": "awesome-AutoIt",
+                "stars": 923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ada(Spark)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154575475,
+                "language": null,
+                "last_commit": "2026-05-31T14:03:49Z",
+                "owner": "ohenley",
+                "repo": "awesome-ada",
+                "stars": 862
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "D",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21602406,
+                "language": "D",
+                "last_commit": "2026-06-28T00:08:29Z",
+                "owner": "dlang-community",
+                "repo": "awesome-d",
+                "stars": 762
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Groovy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21746915,
+                "language": "Groovy",
+                "last_commit": "2024-10-26T11:25:42Z",
+                "owner": "kdabir",
+                "repo": "awesome-groovy",
+                "stars": 740
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Perl",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21791812,
+                "language": "Perl",
+                "last_commit": "2024-08-07T13:32:26Z",
+                "owner": "hachiojipm",
+                "repo": "awesome-perl",
+                "stars": 709
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 40194619,
+                "language": null,
+                "last_commit": "2019-11-14T12:10:15Z",
+                "owner": "vpashkov",
+                "repo": "awesome-nim",
+                "stars": 651
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fortran",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21888466,
+                "language": null,
+                "last_commit": "2026-07-02T15:12:44Z",
+                "owner": "rabbiabram",
+                "repo": "awesome-fortran",
+                "stars": 415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Idris",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98797847,
+                "language": "Idris",
+                "last_commit": "2020-02-20T19:56:12Z",
+                "owner": "joaomilho",
+                "repo": "awesome-idris",
+                "stars": 414
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Delphi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 169092359,
+                "language": null,
+                "last_commit": "2019-02-04T15:05:34Z",
+                "owner": "Fr0sT-Brutal",
+                "repo": "awesome-delphi",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ColdFusion",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21964310,
+                "language": null,
+                "last_commit": "2021-12-29T14:53:49Z",
+                "owner": "seancoyne",
+                "repo": "awesome-coldfusion",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin/Native",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 196190370,
+                "language": null,
+                "last_commit": "2019-07-11T12:21:59Z",
+                "owner": "bipinvaylu",
+                "repo": "awesome-kotlin-native",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ".NET - by @mehdihadeli",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @quozd",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21894635,
+                    "language": null,
+                    "last_commit": "2026-03-26T05:16:53Z",
+                    "owner": "quozd",
+                    "repo": "awesome-dotnet",
+                    "stars": 21574
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @thangchung",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54086969,
+                    "language": "C#",
+                    "last_commit": "2026-02-27T03:26:22Z",
+                    "owner": "thangchung",
+                    "repo": "awesome-dotnet-core",
+                    "stars": 21368
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @tallesl",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33736558,
+                    "language": null,
+                    "last_commit": "2024-03-04T17:52:43Z",
+                    "owner": "tallesl",
+                    "repo": "net-libraries-that-make-your-life-easier",
+                    "stars": 828
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 331300641,
+                "language": "C#",
+                "last_commit": "2025-07-26T11:58:22Z",
+                "owner": "mehdihadeli",
+                "repo": "awesome-dotnet-core-education",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SAS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34831515,
+                "language": null,
+                "last_commit": "2018-05-01T00:30:38Z",
+                "owner": "huyingjie",
+                "repo": "awesome-SAS",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Clojure",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @razum2um",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21657624,
+                    "language": "Clojure",
+                    "last_commit": "2026-08-06T21:10:02Z",
+                    "owner": "razum2um",
+                    "repo": "awesome-clojure",
+                    "stars": 2841
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @mbuczko",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33721373,
+                    "language": null,
+                    "last_commit": "2024-08-20T19:52:43Z",
+                    "owner": "mbuczko",
+                    "repo": "awesome-clojure",
+                    "stars": 367
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Common Lisp",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Common Lisp Libraries",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28573641,
+                    "language": "Makefile",
+                    "last_commit": "2026-08-17T18:33:43Z",
+                    "owner": "CodyReichert",
+                    "repo": "awesome-cl",
+                    "stars": 2970
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning Common Lisp",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 129001053,
+                    "language": null,
+                    "last_commit": "2023-10-04T12:25:11Z",
+                    "owner": "GustavBertram",
+                    "repo": "awesome-common-lisp-learning",
+                    "stars": 240
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Erlang",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @drobakowski",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21693979,
+                    "language": null,
+                    "last_commit": "2022-11-17T23:40:26Z",
+                    "owner": "drobakowski",
+                    "repo": "awesome-erlang",
+                    "stars": 1708
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @0xAX",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12510409,
+                    "language": null,
+                    "last_commit": "2021-07-31T10:36:29Z",
+                    "owner": "0xAX",
+                    "repo": "erlang-bookmarks",
+                    "stars": 1156
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @unbalancedparentheses",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19115286,
+                    "language": "Go Template",
+                    "last_commit": "2026-02-28T21:22:16Z",
+                    "owner": "unbalancedparentheses",
+                    "repo": "spawnedshelter",
+                    "stars": 349
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Lua",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @lewisjellis",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23039606,
+                    "language": null,
+                    "last_commit": "2024-08-11T17:32:00Z",
+                    "owner": "LewisJEllis",
+                    "repo": "awesome-lua",
+                    "stars": 4555
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @forhappy",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22290628,
+                    "language": null,
+                    "last_commit": "2024-06-11T11:37:22Z",
+                    "owner": "forhappy",
+                    "repo": "awesome-lua",
+                    "stars": 409
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Python",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @vinta",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21289110,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T06:42:58Z",
+                    "owner": "vinta",
+                    "repo": "awesome-python",
+                    "stars": 315796
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @trekhleb",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 146619556,
+                    "language": "Python",
+                    "last_commit": "2026-04-06T16:03:15Z",
+                    "owner": "trekhleb",
+                    "repo": "learn-python",
+                    "stars": 18219
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @kirang89",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11072123,
+                    "language": null,
+                    "last_commit": "2023-07-04T14:47:41Z",
+                    "owner": "kirang89",
+                    "repo": "pycrumbs",
+                    "stars": 3257
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @svaksha",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18711198,
+                    "language": "Julia",
+                    "last_commit": "2023-07-04T14:36:02Z",
+                    "owner": "svaksha",
+                    "repo": "pythonidae",
+                    "stars": 1040
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "awesome-python-in-education",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 65908245,
+                    "language": null,
+                    "last_commit": "2024-06-06T07:05:41Z",
+                    "owner": "quobit",
+                    "repo": "awesome-python-in-education",
+                    "stars": 906
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Ruby",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @markets",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21461715,
+                    "language": null,
+                    "last_commit": "2026-08-13T09:40:38Z",
+                    "owner": "markets",
+                    "repo": "awesome-ruby",
+                    "stars": 14144
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @dreikanter",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21204004,
+                    "language": null,
+                    "last_commit": "2026-04-09T13:08:15Z",
+                    "owner": "dreikanter",
+                    "repo": "ruby-bookmarks",
+                    "stars": 2302
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @Sdogruyol",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 21458866,
+                    "language": null,
+                    "last_commit": "2024-08-15T08:02:23Z",
+                    "owner": "sdogruyol",
+                    "repo": "awesome-ruby",
+                    "stars": 1265
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @asyraffff",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 335809595,
+                    "language": null,
+                    "last_commit": "2024-12-30T06:53:52Z",
+                    "owner": "asyraffff",
+                    "repo": "Open-Source-Ruby-and-Rails-Apps",
+                    "stars": 1261
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Swift",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @matteocrippa",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21696302,
+                    "language": "Ruby",
+                    "last_commit": "2026-08-03T13:15:16Z",
+                    "owner": "matteocrippa",
+                    "repo": "awesome-swift",
+                    "stars": 26223
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @Wolg",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21772062,
+                    "language": null,
+                    "last_commit": "2026-04-12T14:34:57Z",
+                    "owner": "Wolg",
+                    "repo": "awesome-swift",
+                    "stars": 5882
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @MaxChen",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 34581074,
+                    "language": null,
+                    "last_commit": "2024-02-27T08:05:01Z",
+                    "owner": "MaxChen",
+                    "repo": "awesome-swift-and-tutorial-resources",
+                    "stars": 127
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "TypeScript",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @dzharii",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 36996520,
+                    "language": null,
+                    "last_commit": "2026-02-11T04:21:43Z",
+                    "owner": "dzharii",
+                    "repo": "awesome-typescript",
+                    "stars": 5118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @brookshi",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 82440765,
+                    "language": "TypeScript",
+                    "last_commit": "2023-06-13T19:31:34Z",
+                    "owner": "brookshi",
+                    "repo": "awesome-typescript-projects",
+                    "stars": 895
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @ellerbrock",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60059944,
+                    "language": null,
+                    "last_commit": "2024-06-07T13:45:10Z",
+                    "owner": "ellerbrock",
+                    "repo": "awesome-typescript",
+                    "stars": 77
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "General",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Selfhosted",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36633370,
+                "language": null,
+                "last_commit": "2026-08-22T18:55:56Z",
+                "owner": "awesome-selfhosted",
+                "repo": "awesome-selfhosted",
+                "stars": 314656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Free Services",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32484381,
+                "language": "HTML",
+                "last_commit": "2026-08-24T13:44:36Z",
+                "owner": "ripienaar",
+                "repo": "free-for-dev",
+                "stars": 134924
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Papers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15204860,
+                "language": "Shell",
+                "last_commit": "2026-08-24T09:14:23Z",
+                "owner": "papers-we-love",
+                "repo": "papers-we-love",
+                "stars": 108966
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Machine Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21872392,
+                "language": "Python",
+                "last_commit": "2026-08-21T10:11:51Z",
+                "owner": "josephmisiti",
+                "repo": "awesome-machine-learning",
+                "stars": 74141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scalability",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115478820,
+                "language": null,
+                "last_commit": "2026-01-04T03:51:47Z",
+                "owner": "binhnguyennus",
+                "repo": "awesome-scalability",
+                "stars": 73496
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Courses",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26689598,
+                "language": null,
+                "last_commit": "2023-05-04T12:49:34Z",
+                "owner": "prakhar1989",
+                "repo": "awesome-courses",
+                "stars": 70632
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flutter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90528830,
+                "language": "Dart",
+                "last_commit": "2026-04-21T19:06:09Z",
+                "owner": "Solido",
+                "repo": "awesome-flutter",
+                "stars": 60987
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Open Source Apps",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29887499,
+                    "language": null,
+                    "last_commit": "2026-08-24T13:10:37Z",
+                    "owner": "dkhamsing",
+                    "repo": "open-source-ios-apps",
+                    "stars": 51826
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "UI",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33538019,
+                    "language": null,
+                    "last_commit": "2018-03-08T08:57:40Z",
+                    "owner": "cjwirth",
+                    "repo": "awesome-ios-ui",
+                    "stars": 11216
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cocoa Controls",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 152143422,
+                    "language": "JavaScript",
+                    "last_commit": "2022-05-21T09:55:05Z",
+                    "owner": "v-braun",
+                    "repo": "awesome-cocoa",
+                    "stars": 98
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 21700699,
+                "language": "Swift",
+                "last_commit": "2026-06-24T14:58:10Z",
+                "owner": "vsouza",
+                "repo": "awesome-ios",
+                "stars": 53149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Design Patterns",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136062240,
+                "language": null,
+                "last_commit": "2024-10-25T19:57:00Z",
+                "owner": "DovAmir",
+                "repo": "awesome-design-patterns",
+                "stars": 48671
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Remote Job",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28699471,
+                "language": null,
+                "last_commit": "2026-08-16T19:35:44Z",
+                "owner": "lukasz-madon",
+                "repo": "awesome-remote-job",
+                "stars": 47991
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Design Tools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170326929,
+                "language": "JavaScript",
+                "last_commit": "2024-07-28T19:57:31Z",
+                "owner": "goabstract",
+                "repo": "Awesome-Design-Tools",
+                "stars": 40986
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24297122,
+                "language": null,
+                "last_commit": "2026-08-19T15:33:40Z",
+                "owner": "veggiemonk",
+                "repo": "awesome-docker",
+                "stars": 36701
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32948863,
+                "language": "JavaScript",
+                "last_commit": "2024-07-05T13:12:41Z",
+                "owner": "jondot",
+                "repo": "awesome-react-native",
+                "stars": 35690
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data Science",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Notebooks",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 299951448,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-10-21T10:10:48Z",
+                    "owner": "jupyter-naas",
+                    "repo": "awesome-notebooks",
+                    "stars": 3014
+                  }
+                },
+                {
+                  "node_type": "group",
+                  "title": "Data Science with Python",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "by @r0f1",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 158673445,
+                        "language": null,
+                        "last_commit": "2026-08-11T21:22:52Z",
+                        "owner": "r0f1",
+                        "repo": "datascience",
+                        "stars": 4656
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "by @krzjoa",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 114992691,
+                        "language": null,
+                        "last_commit": "2026-04-13T07:15:05Z",
+                        "owner": "krzjoa",
+                        "repo": "awesome-python-data-science",
+                        "stars": 3567
+                      }
+                    }
+                  ]
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 21515044,
+                "language": null,
+                "last_commit": "2026-08-22T06:20:28Z",
+                "owner": "academic",
+                "repo": "awesome-datascience",
+                "stars": 29859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Falsehood",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67687706,
+                "language": null,
+                "last_commit": "2026-08-14T13:32:02Z",
+                "owner": "kdeldycke",
+                "repo": "awesome-falsehood",
+                "stars": 27645
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Electron",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34453060,
+                "language": null,
+                "last_commit": "2026-05-03T11:29:47Z",
+                "owner": "sindresorhus",
+                "repo": "awesome-electron",
+                "stars": 27264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Algorithms",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Algorithms Visualisation",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23984871,
+                    "language": null,
+                    "last_commit": "2022-12-05T14:04:34Z",
+                    "owner": "enjalot",
+                    "repo": "algovis",
+                    "stars": 1764
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Big O Notation",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42899346,
+                    "language": null,
+                    "last_commit": "2021-07-24T08:36:16Z",
+                    "owner": "okulbilisim",
+                    "repo": "awesome-big-o",
+                    "stars": 109
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 21911597,
+                "language": null,
+                "last_commit": "2026-04-18T15:06:58Z",
+                "owner": "tayllan",
+                "repo": "awesome-algorithms",
+                "stars": 25477
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Games",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 3112748,
+                "language": null,
+                "last_commit": "2025-09-13T20:06:46Z",
+                "owner": "leereilly",
+                "repo": "games",
+                "stars": 24943
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sysadmin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16677706,
+                "language": null,
+                "last_commit": "2024-03-26T23:45:17Z",
+                "owner": "kahun",
+                "repo": "awesome-sysadmin",
+                "stars": 24351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Computer Vision",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29357796,
+                "language": null,
+                "last_commit": "2024-05-17T14:24:27Z",
+                "owner": "jbhuang0604",
+                "repo": "awesome-computer-vision",
+                "stars": 23517
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "README",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29456624,
+                "language": null,
+                "last_commit": "2026-08-20T19:50:09Z",
+                "owner": "matiassingers",
+                "repo": "awesome-readme",
+                "stars": 21364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quick Look Plugins",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15008072,
+                "language": null,
+                "last_commit": "2026-07-25T15:31:05Z",
+                "owner": "sindresorhus",
+                "repo": "quick-look-plugins",
+                "stars": 18746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Design",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63935685,
+                "language": null,
+                "last_commit": "2024-07-04T18:17:39Z",
+                "owner": "gztchan",
+                "repo": "awesome-design",
+                "stars": 17449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Game Development",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21958186,
+                "language": "Markdown",
+                "last_commit": "2026-08-17T17:57:40Z",
+                "owner": "ellisonleao",
+                "repo": "magictools",
+                "stars": 17191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20281866,
+                "language": null,
+                "last_commit": "2026-05-16T20:15:09Z",
+                "owner": "cjbarber",
+                "repo": "ToolsOfTheTrade",
+                "stars": 17152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Math",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41793121,
+                "language": "Python",
+                "last_commit": "2026-08-14T08:36:36Z",
+                "owner": "rossant",
+                "repo": "awesome-math",
+                "stars": 16160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Artificial intelligence",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29906842,
+                "language": "Python",
+                "last_commit": "2026-08-15T08:12:01Z",
+                "owner": "owainlewis",
+                "repo": "awesome-artificial-intelligence",
+                "stars": 16117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tailwind CSS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109994573,
+                "language": null,
+                "last_commit": "2026-08-14T14:48:26Z",
+                "owner": "aniftyco",
+                "repo": "awesome-tailwindcss",
+                "stars": 15163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GraphQL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38958738,
+                "language": null,
+                "last_commit": "2026-08-14T03:30:31Z",
+                "owner": "chentsulin",
+                "repo": "awesome-graphql",
+                "stars": 15104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23208012,
+                "language": null,
+                "last_commit": "2026-01-11T02:00:26Z",
+                "owner": "sbilly",
+                "repo": "awesome-security",
+                "stars": 14791
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Static Analysis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48246447,
+                "language": "Rust",
+                "last_commit": "2026-06-10T13:06:01Z",
+                "owner": "analysis-tools-dev",
+                "repo": "static-analysis",
+                "stars": 14746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Malware Analysis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35313712,
+                "language": null,
+                "last_commit": "2024-06-07T05:09:47Z",
+                "owner": "rshipp",
+                "repo": "awesome-malware-analysis",
+                "stars": 14149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Competitive Programming",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46572574,
+                "language": null,
+                "last_commit": "2024-12-08T09:40:58Z",
+                "owner": "lnishan",
+                "repo": "awesome-competitive-programming",
+                "stars": 14137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Amazon Web Services",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ".htaccess",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29900673,
+                "language": null,
+                "last_commit": "2026-03-06T06:31:28Z",
+                "owner": "phanan",
+                "repo": "htaccess",
+                "stars": 13181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laravel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22417801,
+                "language": null,
+                "last_commit": "2024-07-03T15:59:36Z",
+                "owner": "chiraggude",
+                "repo": "awesome-laravel",
+                "stars": 13094
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Terminals Are Sexy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80627278,
+                "language": "Shell",
+                "last_commit": "2024-07-26T15:27:31Z",
+                "owner": "k4m4",
+                "repo": "terminals-are-sexy",
+                "stars": 13087
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Android UI",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28428729,
+                    "language": null,
+                    "last_commit": "2026-06-05T05:39:52Z",
+                    "owner": "wasabeef",
+                    "repo": "awesome-android-ui",
+                    "stars": 57322
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Android Security",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22117770,
+                    "language": "Makefile",
+                    "last_commit": "2026-08-21T18:33:19Z",
+                    "owner": "ashishb",
+                    "repo": "android-security-awesome",
+                    "stars": 9638
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Android Release Notes",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 78659480,
+                    "language": null,
+                    "last_commit": "2017-01-11T18:11:20Z",
+                    "owner": "pedronveloso",
+                    "repo": "awesome-android-release-notes",
+                    "stars": 21
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 21780562,
+                "language": null,
+                "last_commit": "2025-10-27T08:14:07Z",
+                "owner": "JStumpp",
+                "repo": "awesome-android",
+                "stars": 12296
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastAPI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260928305,
+                "language": null,
+                "last_commit": "2026-06-24T17:30:19Z",
+                "owner": "mjhea0",
+                "repo": "awesome-fastapi",
+                "stars": 11618
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Django",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129094260,
+                "language": "Python",
+                "last_commit": "2026-08-18T13:46:11Z",
+                "owner": "wsvincent",
+                "repo": "awesome-django",
+                "stars": 11222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hyper",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63499650,
+                "language": null,
+                "last_commit": "2022-09-20T08:52:39Z",
+                "owner": "bnb",
+                "repo": "awesome-hyper",
+                "stars": 11000
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dotfiles",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21900980,
+                "language": null,
+                "last_commit": "2026-07-26T07:05:04Z",
+                "owner": "webpro",
+                "repo": "awesome-dotfiles",
+                "stars": 10827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Threat Intelligence",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48368290,
+                "language": null,
+                "last_commit": "2026-05-31T10:54:05Z",
+                "owner": "hslatman",
+                "repo": "awesome-threat-intelligence",
+                "stars": 10568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Honeypots",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37659549,
+                "language": "Python",
+                "last_commit": "2026-06-01T14:15:45Z",
+                "owner": "paralax",
+                "repo": "awesome-honeypots",
+                "stars": 10532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Documentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3105906,
+                "language": null,
+                "last_commit": "2026-08-19T01:58:02Z",
+                "owner": "matheusfelipeog",
+                "repo": "beautiful-docs",
+                "stars": 9523
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blazor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127247098,
+                "language": null,
+                "last_commit": "2026-07-25T11:20:31Z",
+                "owner": "AdrienTorris",
+                "repo": "awesome-blazor",
+                "stars": 9373
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Emacs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22493222,
+                "language": null,
+                "last_commit": "2026-05-13T04:32:20Z",
+                "owner": "emacs-tw",
+                "repo": "awesome-emacs",
+                "stars": 9367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Incident Response",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45943554,
+                "language": null,
+                "last_commit": "2026-07-15T10:58:26Z",
+                "owner": "meirwah",
+                "repo": "awesome-incident-response",
+                "stars": 9349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web Performance Optimization",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25212911,
+                "language": null,
+                "last_commit": "2026-07-28T02:18:16Z",
+                "owner": "davidsonfellipe",
+                "repo": "awesome-wpo",
+                "stars": 9049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embedded",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104612770,
+                "language": null,
+                "last_commit": "2026-08-12T03:10:08Z",
+                "owner": "nhivp",
+                "repo": "Awesome-Embedded",
+                "stars": 9024
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Serverless",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51401194,
+                "language": null,
+                "last_commit": "2026-02-11T16:45:39Z",
+                "owner": "anaibol",
+                "repo": "awesome-serverless",
+                "stars": 7584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Test Automation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29977860,
+                "language": null,
+                "last_commit": "2025-11-28T16:02:39Z",
+                "owner": "atinfo",
+                "repo": "awesome-test-automation",
+                "stars": 7144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unity",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22240046,
+                "language": null,
+                "last_commit": "2025-01-22T15:47:15Z",
+                "owner": "RyanNielson",
+                "repo": "awesome-unity",
+                "stars": 7103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robotics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46938122,
+                "language": null,
+                "last_commit": "2024-09-22T20:24:10Z",
+                "owner": "kiloreux",
+                "repo": "awesome-robotics",
+                "stars": 6978
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pipelines",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22013111,
+                "language": null,
+                "last_commit": "2026-08-04T07:45:32Z",
+                "owner": "pditommaso",
+                "repo": "awesome-pipeline",
+                "stars": 6623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RNN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37458410,
+                "language": null,
+                "last_commit": "2022-02-03T05:56:39Z",
+                "owner": "kjw0612",
+                "repo": "awesome-rnn",
+                "stars": 6209
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Talks",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Gaming",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29001594,
+                    "language": null,
+                    "last_commit": "2024-05-09T00:58:26Z",
+                    "owner": "hzoo",
+                    "repo": "awesome-gametalks",
+                    "stars": 1180
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 16010964,
+                "language": null,
+                "last_commit": "2026-06-25T14:00:39Z",
+                "owner": "JanVanRyswyck",
+                "repo": "awesome-talks",
+                "stars": 6198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telegram",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62419944,
+                "language": null,
+                "last_commit": "2026-07-31T01:41:18Z",
+                "owner": "ebertti",
+                "repo": "awesome-telegram",
+                "stars": 5635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CSS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CSS Frameworks",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 102095278,
+                    "language": "CSS",
+                    "last_commit": "2026-06-08T20:32:07Z",
+                    "owner": "troxler",
+                    "repo": "awesome-css-frameworks",
+                    "stars": 9495
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 30108786,
+                "language": null,
+                "last_commit": "2024-10-30T07:00:24Z",
+                "owner": "awesome-css-group",
+                "repo": "awesome-css",
+                "stars": 5618
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLOps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266895706,
+                "language": "Python",
+                "last_commit": "2026-08-17T00:21:28Z",
+                "owner": "kelvins",
+                "repo": "awesome-mlops",
+                "stars": 5253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Science Fiction",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29582583,
+                "language": null,
+                "last_commit": "2025-12-22T20:07:37Z",
+                "owner": "sindresorhus",
+                "repo": "awesome-scifi",
+                "stars": 5016
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graph Classification",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140943444,
+                "language": "Python",
+                "last_commit": "2023-03-18T12:10:08Z",
+                "owner": "benedekrozemberczki",
+                "repo": "awesome-graph-classification",
+                "stars": 4798
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jupyter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101582879,
+                "language": null,
+                "last_commit": "2026-08-23T23:59:34Z",
+                "owner": "markusschanta",
+                "repo": "awesome-jupyter",
+                "stars": 4663
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SVG",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24217086,
+                "language": "Shell",
+                "last_commit": "2026-07-16T16:17:42Z",
+                "owner": "willianjusten",
+                "repo": "awesome-svg",
+                "stars": 4648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vehicle Security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64367335,
+                "language": null,
+                "last_commit": "2026-05-30T00:29:18Z",
+                "owner": "jaredthecoder",
+                "repo": "awesome-vehicle-security",
+                "stars": 4511
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Internet of Things (IOT)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43182851,
+                "language": null,
+                "last_commit": "2026-08-10T11:02:29Z",
+                "owner": "HQarroum",
+                "repo": "awesome-iot",
+                "stars": 4476
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data Visualization",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39454666,
+                "language": null,
+                "last_commit": "2024-01-26T12:36:48Z",
+                "owner": "hal9ai",
+                "repo": "awesome-dataviz",
+                "stars": 4387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pentest Cheat Sheets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 75025071,
+                "language": null,
+                "last_commit": "2024-02-16T13:38:52Z",
+                "owner": "coreb1t",
+                "repo": "awesome-pentest-cheat-sheets",
+                "stars": 4365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Analytics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21604034,
+                "language": null,
+                "last_commit": "2026-02-17T15:25:51Z",
+                "owner": "oxnr",
+                "repo": "awesome-analytics",
+                "stars": 4303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "REST",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35204235,
+                "language": null,
+                "last_commit": "2026-05-13T08:22:14Z",
+                "owner": "marmelab",
+                "repo": "awesome-rest",
+                "stars": 3906
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robotic Tooling",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 217333025,
+                "language": null,
+                "last_commit": "2023-11-20T07:13:29Z",
+                "owner": "Ly0n",
+                "repo": "awesome-robotic-tooling",
+                "stars": 3883
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Landing Page",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282611558,
+                "language": null,
+                "last_commit": "2022-01-02T03:44:33Z",
+                "owner": "nordicgiant2",
+                "repo": "awesome-landing-page",
+                "stars": 3816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nginx",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27305804,
+                "language": null,
+                "last_commit": "2026-08-04T13:42:10Z",
+                "owner": "fcambus",
+                "repo": "nginx-resources",
+                "stars": 3805
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vulkan",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51843752,
+                "language": null,
+                "last_commit": "2026-05-11T04:37:02Z",
+                "owner": "vinjn",
+                "repo": "awesome-vulkan",
+                "stars": 3713
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Services Engineering",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13344997,
+                "language": null,
+                "last_commit": "2022-10-02T14:18:29Z",
+                "owner": "mmcgrana",
+                "repo": "services-engineering",
+                "stars": 3691
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mental Health",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152492484,
+                "language": "HTML",
+                "last_commit": "2025-05-02T20:01:45Z",
+                "owner": "dreamingechoes",
+                "repo": "awesome-mental-health",
+                "stars": 3632
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebComponents",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25369460,
+                "language": null,
+                "last_commit": "2026-08-17T10:42:44Z",
+                "owner": "web-padawan",
+                "repo": "awesome-web-components",
+                "stars": 3564
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dev Env",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21687084,
+                "language": null,
+                "last_commit": "2024-07-29T13:08:35Z",
+                "owner": "jondot",
+                "repo": "awesome-devenv",
+                "stars": 3334
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "No Login Web Apps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75722692,
+                "language": "Shell",
+                "last_commit": "2024-04-30T13:40:36Z",
+                "owner": "aviaryan",
+                "repo": "awesome-no-login-web-apps",
+                "stars": 3331
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web Effect",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281834526,
+                "language": null,
+                "last_commit": "2021-04-12T03:19:08Z",
+                "owner": "lindelof",
+                "repo": "awesome-web-effect",
+                "stars": 3154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Git",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41074904,
+                "language": null,
+                "last_commit": "2026-07-07T07:00:27Z",
+                "owner": "dictcp",
+                "repo": "awesome-git",
+                "stars": 2933
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Software Architecture",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163113528,
+                "language": null,
+                "last_commit": "2026-04-19T14:30:02Z",
+                "owner": "simonaronsson",
+                "repo": "awesome-software-architecture",
+                "stars": 2872
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTML5",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21430176,
+                "language": null,
+                "last_commit": "2023-09-26T08:12:13Z",
+                "owner": "diegocard",
+                "repo": "awesome-html5",
+                "stars": 2803
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sustainable Technology",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296566912,
+                "language": null,
+                "last_commit": "2026-08-23T17:34:13Z",
+                "owner": "protontypes",
+                "repo": "open-sustainable-technology",
+                "stars": 2543
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Images",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22304234,
+                "language": null,
+                "last_commit": "2026-07-06T09:21:22Z",
+                "owner": "heyalexej",
+                "repo": "awesome-images",
+                "stars": 2508
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Decision Tree Papers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186166778,
+                "language": "Python",
+                "last_commit": "2025-12-28T23:17:27Z",
+                "owner": "benedekrozemberczki",
+                "repo": "awesome-decision-tree-papers",
+                "stars": 2473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Community Detection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152444880,
+                "language": "Python",
+                "last_commit": "2025-12-20T17:06:00Z",
+                "owner": "benedekrozemberczki",
+                "repo": "awesome-community-detection",
+                "stars": 2450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Testing",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "JMeter",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 37666064,
+                    "language": "HTML",
+                    "last_commit": "2026-08-01T02:02:30Z",
+                    "owner": "aliesbelik",
+                    "repo": "awesome-jmeter",
+                    "stars": 807
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 77133957,
+                "language": null,
+                "last_commit": "2026-08-22T20:24:21Z",
+                "owner": "TheJambo",
+                "repo": "awesome-testing",
+                "stars": 2355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Startup",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48127781,
+                "language": null,
+                "last_commit": "2026-08-09T19:01:56Z",
+                "owner": "KrishMunot",
+                "repo": "awesome-startup",
+                "stars": 2331
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Workshops",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31267860,
+                "language": null,
+                "last_commit": "2021-03-03T04:05:01Z",
+                "owner": "therebelrobot",
+                "repo": "awesome-workshopper",
+                "stars": 2264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Speech and Natural Language Processing",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NLP with Ruby",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53977944,
+                    "language": "Ruby",
+                    "last_commit": "2023-06-27T09:38:04Z",
+                    "owner": "arbox",
+                    "repo": "nlp-with-ruby",
+                    "stars": 1076
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 22443092,
+                "language": null,
+                "last_commit": "2019-04-02T12:35:13Z",
+                "owner": "edobashira",
+                "repo": "speech-language-processing",
+                "stars": 2225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JVM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40659091,
+                "language": null,
+                "last_commit": "2022-08-30T06:38:00Z",
+                "owner": "deephacks",
+                "repo": "awesome-jvm",
+                "stars": 2175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crypto Papers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82925053,
+                "language": null,
+                "last_commit": "2024-10-17T18:13:08Z",
+                "owner": "pFarb",
+                "repo": "awesome-crypto-papers",
+                "stars": 2092
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Linux Containers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40815285,
+                "language": null,
+                "last_commit": "2024-04-09T19:01:27Z",
+                "owner": "Friz-zy",
+                "repo": "awesome-linux-containers",
+                "stars": 2090
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fonts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29055846,
+                "language": null,
+                "last_commit": "2026-07-26T05:01:07Z",
+                "owner": "brabadu",
+                "repo": "awesome-fonts",
+                "stars": 2053
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Continuous Delivery",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27022152,
+                "language": null,
+                "last_commit": "2026-04-14T12:29:54Z",
+                "owner": "cicdops",
+                "repo": "awesome-ciandcd",
+                "stars": 2009
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xamarin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 37347744,
+                "language": null,
+                "last_commit": "2026-02-16T13:28:37Z",
+                "owner": "XamSome",
+                "repo": "awesome-xamarin",
+                "stars": 1871
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fraud Detection Papers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188821801,
+                "language": "Python",
+                "last_commit": "2026-01-05T12:28:59Z",
+                "owner": "benedekrozemberczki",
+                "repo": "awesome-fraud-detection-papers",
+                "stars": 1827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Regex",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36005882,
+                "language": null,
+                "last_commit": "2024-10-19T23:28:23Z",
+                "owner": "aloisdg",
+                "repo": "awesome-regex",
+                "stars": 1825
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flask",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203664833,
+                "language": null,
+                "last_commit": "2026-05-13T13:35:25Z",
+                "owner": "mjhea0",
+                "repo": "awesome-flask",
+                "stars": 1767
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UNIX",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111368115,
+                "language": null,
+                "last_commit": "2026-07-29T20:00:04Z",
+                "owner": "sirredbeard",
+                "repo": "awesome-unix",
+                "stars": 1767
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DevSecOps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244098056,
+                "language": null,
+                "last_commit": "2024-08-02T12:52:41Z",
+                "owner": "jakob-pennington",
+                "repo": "awesome-devsecops",
+                "stars": 1717
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Remote Work",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26639193,
+                "language": null,
+                "last_commit": "2025-12-27T10:38:05Z",
+                "owner": "hugo53",
+                "repo": "awesome-RemoteWork",
+                "stars": 1646
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JSON",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33020765,
+                "language": null,
+                "last_commit": "2026-06-19T12:25:07Z",
+                "owner": "burningtree",
+                "repo": "awesome-json",
+                "stars": 1563
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Typography",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60974520,
+                "language": null,
+                "last_commit": "2026-05-28T20:27:55Z",
+                "owner": "Jolg42",
+                "repo": "awesome-typography",
+                "stars": 1527
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wordpress",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21648587,
+                "language": "HTML",
+                "last_commit": "2024-07-04T12:41:05Z",
+                "owner": "miziomon",
+                "repo": "awesome-wordpress",
+                "stars": 1496
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agile",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104643181,
+                "language": null,
+                "last_commit": "2024-08-10T05:59:46Z",
+                "owner": "lorabv",
+                "repo": "awesome-agile",
+                "stars": 1481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bootstrap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22658069,
+                "language": "JavaScript",
+                "last_commit": "2023-11-02T14:54:30Z",
+                "owner": "awesome-bootstrap-org",
+                "repo": "awesome-bootstrap",
+                "stars": 1436
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Captcha",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121084517,
+                "language": "JavaScript",
+                "last_commit": "2026-04-17T22:10:48Z",
+                "owner": "ZYSzys",
+                "repo": "awesome-captcha",
+                "stars": 1420
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Boilerplates",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29382033,
+                "language": null,
+                "last_commit": "2024-08-06T14:19:39Z",
+                "owner": "melvin0008",
+                "repo": "awesome-projects-boilerplates",
+                "stars": 1406
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Database",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SQLAlchemy",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24311052,
+                    "language": "Python",
+                    "last_commit": "2026-06-08T08:36:57Z",
+                    "owner": "dahlia",
+                    "repo": "awesome-sqlalchemy",
+                    "stars": 3055
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 22630633,
+                "language": null,
+                "last_commit": "2024-03-04T12:40:15Z",
+                "owner": "numetriclabz",
+                "repo": "awesome-db",
+                "stars": 1378
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mobile Web Development",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126731105,
+                "language": null,
+                "last_commit": "2023-12-15T10:23:46Z",
+                "owner": "myshov",
+                "repo": "awesome-mobile-web-development",
+                "stars": 1286
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Random-Forest",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37458505,
+                "language": null,
+                "last_commit": "2023-11-16T18:51:31Z",
+                "owner": "kjw0612",
+                "repo": "awesome-random-forest",
+                "stars": 1254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "micro:bit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65635555,
+                "language": "HTML",
+                "last_commit": "2026-05-21T21:57:24Z",
+                "owner": "carlosperate",
+                "repo": "awesome-microbit",
+                "stars": 1194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sublime Text",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21825936,
+                "language": null,
+                "last_commit": "2024-01-15T15:02:30Z",
+                "owner": "dreikanter",
+                "repo": "sublime-bookmarks",
+                "stars": 1074
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gradient Boosting Papers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186163475,
+                "language": "Python",
+                "last_commit": "2026-01-05T12:39:45Z",
+                "owner": "benedekrozemberczki",
+                "repo": "awesome-gradient-boosting-papers",
+                "stars": 1049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sheet Music",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26535167,
+                "language": null,
+                "last_commit": "2026-07-01T11:49:07Z",
+                "owner": "ad-si",
+                "repo": "awesome-sheet-music",
+                "stars": 1022
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sphinx Documentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25148471,
+                "language": "HTML",
+                "last_commit": "2025-10-07T13:10:32Z",
+                "owner": "ygzgxyz",
+                "repo": "awesome-sphinxdoc",
+                "stars": 979
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Beacons",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22374779,
+                "language": null,
+                "last_commit": "2019-05-03T11:40:22Z",
+                "owner": "rabschi",
+                "repo": "awesome-beacon",
+                "stars": 958
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Slack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32439010,
+                "language": null,
+                "last_commit": "2025-07-28T12:38:16Z",
+                "owner": "matiassingers",
+                "repo": "awesome-slack",
+                "stars": 892
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DevOps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45676563,
+                "language": null,
+                "last_commit": "2024-07-03T18:08:54Z",
+                "owner": "joubertredrat",
+                "repo": "awesome-devops",
+                "stars": 841
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apple",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OS X",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36241619,
+                    "language": null,
+                    "last_commit": "2026-08-23T18:27:23Z",
+                    "owner": "iCHAIT",
+                    "repo": "awesome-macOS",
+                    "stars": 19077
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OS X and iOS Security",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29182759,
+                    "language": "Shell",
+                    "last_commit": "2026-08-15T02:27:49Z",
+                    "owner": "ashishb",
+                    "repo": "osx-and-ios-security-awesome",
+                    "stars": 1728
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": true,
+                "id": 21828904,
+                "language": null,
+                "last_commit": "2026-04-28T12:26:09Z",
+                "owner": "joeljfischer",
+                "repo": "awesome-apple",
+                "stars": 834
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conferences",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23163494,
+                "language": "Ruby",
+                "last_commit": "2022-09-29T21:10:00Z",
+                "owner": "RichardLitt",
+                "repo": "awesome-conferences",
+                "stars": 790
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gists",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35503403,
+                "language": null,
+                "last_commit": "2025-06-24T13:38:45Z",
+                "owner": "vsouza",
+                "repo": "awesome-gists",
+                "stars": 769
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Algolia",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69882769,
+                "language": null,
+                "last_commit": "2024-09-09T08:25:35Z",
+                "owner": "algolia",
+                "repo": "awesome-algolia",
+                "stars": 741
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Styleguides",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23323231,
+                "language": "Shell",
+                "last_commit": "2019-04-18T07:14:56Z",
+                "owner": "RichardLitt",
+                "repo": "awesome-styleguides",
+                "stars": 740
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Monitoring",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Prometheus alerting rules",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 154027884,
+                    "language": "Astro",
+                    "last_commit": "2026-08-23T21:27:33Z",
+                    "owner": "samber",
+                    "repo": "awesome-prometheus-alerts",
+                    "stars": 8166
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Monte Carlo Tree Search Papers",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 223468637,
+                    "language": "Python",
+                    "last_commit": "2026-01-13T10:28:51Z",
+                    "owner": "benedekrozemberczki",
+                    "repo": "awesome-monte-carlo-tree-search-papers",
+                    "stars": 714
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Prometheus",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 968605138,
+                    "language": null,
+                    "last_commit": "2024-07-30T18:33:53Z",
+                    "owner": "roaldnefs",
+                    "repo": "awesome-prometheus",
+                    "stars": 86
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 59476603,
+                "language": "Go",
+                "last_commit": "2025-02-25T14:07:35Z",
+                "owner": "crazy-canux",
+                "repo": "awesome-monitoring",
+                "stars": 732
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arduino",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42284113,
+                "language": "Shell",
+                "last_commit": "2023-12-05T12:37:37Z",
+                "owner": "Lembed",
+                "repo": "Awesome-arduino",
+                "stars": 726
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Browser extensions for GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29885833,
+                    "language": "JavaScript",
+                    "last_commit": "2024-08-18T20:11:31Z",
+                    "owner": "stefanbuck",
+                    "repo": "awesome-browser-extensions-for-github",
+                    "stars": 3289
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GitHub - Chinese",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52947672,
+                    "language": null,
+                    "last_commit": "2026-03-12T13:04:27Z",
+                    "owner": "AntBranch",
+                    "repo": "awesome-github",
+                    "stars": 2176
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 24530816,
+                "language": null,
+                "last_commit": "2021-02-13T21:55:24Z",
+                "owner": "Kikobeats",
+                "repo": "awesome-github",
+                "stars": 695
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Material Design",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29335836,
+                "language": null,
+                "last_commit": "2026-08-21T01:33:16Z",
+                "owner": "sachin1092",
+                "repo": "awesome-material",
+                "stars": 656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open Source Photography",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39386696,
+                "language": null,
+                "last_commit": "2026-04-19T21:43:56Z",
+                "owner": "ibaaj",
+                "repo": "awesome-OpenSourcePhotography",
+                "stars": 655
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Free Open Source Software (FOSS)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296822465,
+                "language": null,
+                "last_commit": "2026-06-04T09:30:19Z",
+                "owner": "ishanvyas22",
+                "repo": "awesome-open-source-systems",
+                "stars": 650
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Capacitor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429233609,
+                "language": "HTML",
+                "last_commit": "2026-08-20T15:03:05Z",
+                "owner": "riderx",
+                "repo": "awesome-capacitor",
+                "stars": 637
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Serverless Security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165110213,
+                "language": null,
+                "last_commit": "2022-05-05T06:10:36Z",
+                "owner": "puresec",
+                "repo": "awesome-serverless-security",
+                "stars": 636
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vagrant",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22462211,
+                "language": null,
+                "last_commit": "2020-10-08T13:38:09Z",
+                "owner": "iJackUA",
+                "repo": "awesome-vagrant",
+                "stars": 631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Growth Hacking",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35214474,
+                "language": null,
+                "last_commit": "2024-05-09T11:36:20Z",
+                "owner": "bekatom",
+                "repo": "awesome-growth-hacking",
+                "stars": 525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Koans",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19601102,
+                "language": null,
+                "last_commit": "2024-05-11T01:21:06Z",
+                "owner": "ahmdrefat",
+                "repo": "awesome-koans",
+                "stars": 460
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lego",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30380625,
+                "language": null,
+                "last_commit": "2026-06-18T10:13:43Z",
+                "owner": "ad-si",
+                "repo": "awesome-lego",
+                "stars": 428
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Internationalization",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338562865,
+                "language": null,
+                "last_commit": "2026-07-24T14:37:46Z",
+                "owner": "oh-jon-paul",
+                "repo": "awesome-i18n",
+                "stars": 408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Matlab",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48948741,
+                "language": null,
+                "last_commit": "2025-04-29T12:09:53Z",
+                "owner": "mikecroucher",
+                "repo": "awesome-MATLAB",
+                "stars": 401
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ARM Exploitation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194529710,
+                "language": null,
+                "last_commit": "2024-01-04T19:53:37Z",
+                "owner": "HenryHoggard",
+                "repo": "awesome-arm-exploitation",
+                "stars": 365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Product Manager",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26624064,
+                "language": null,
+                "last_commit": "2023-07-31T05:52:46Z",
+                "owner": "hugo53",
+                "repo": "awesome-ProductManager",
+                "stars": 343
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cordova",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22018956,
+                "language": "Ruby",
+                "last_commit": "2019-10-25T21:18:18Z",
+                "owner": "busterc",
+                "repo": "awesome-cordova",
+                "stars": 309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Linux resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28534424,
+                "language": null,
+                "last_commit": "2017-05-03T06:20:30Z",
+                "owner": "itech001",
+                "repo": "awesome-linux-resources",
+                "stars": 293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code Formatters",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25324692,
+                "language": null,
+                "last_commit": "2022-11-24T11:11:19Z",
+                "owner": "rishirdua",
+                "repo": "awesome-code-formatters",
+                "stars": 292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Philosophy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179366226,
+                "language": null,
+                "last_commit": "2026-03-16T00:44:12Z",
+                "owner": "HussainAther",
+                "repo": "awesome-philosophy",
+                "stars": 271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kafka",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163455001,
+                "language": null,
+                "last_commit": "2026-05-13T16:57:56Z",
+                "owner": "monksy",
+                "repo": "awesome-kafka",
+                "stars": 216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Building Blocks for Web Apps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267860309,
+                "language": null,
+                "last_commit": "2025-07-29T16:09:02Z",
+                "owner": "componently-com",
+                "repo": "awesome-building-blocks-for-web-apps",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conversational UI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52899580,
+                "language": null,
+                "last_commit": "2017-09-18T17:26:53Z",
+                "owner": "mortenjust",
+                "repo": "awesome-conversational",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Podcasts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49979711,
+                "language": "JavaScript",
+                "last_commit": "2023-05-26T18:13:35Z",
+                "owner": "ghosh",
+                "repo": "awesome-podcasts",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open Science",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 24077732,
+                "language": "Haskell",
+                "last_commit": "2025-11-12T17:21:43Z",
+                "owner": "silky",
+                "repo": "awesome-open-science",
+                "stars": 157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Challenges",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36454687,
+                "language": null,
+                "last_commit": "2022-02-01T19:49:47Z",
+                "owner": "mauriciovieira",
+                "repo": "awesome-challenges",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Space",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Books and manuals",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31169788,
+                    "language": null,
+                    "last_commit": "2024-04-12T13:10:06Z",
+                    "owner": "Hunter-Github",
+                    "repo": "awesome-space-books",
+                    "stars": 171
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 33711470,
+                "language": null,
+                "last_commit": "2021-12-04T21:36:49Z",
+                "owner": "elburz",
+                "repo": "awesome-space",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FIRST Robotics Competition",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68661365,
+                "language": null,
+                "last_commit": "2023-07-22T18:50:37Z",
+                "owner": "andrewda",
+                "repo": "awesome-frc",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sound",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50095797,
+                "language": null,
+                "last_commit": "2021-02-16T21:59:44Z",
+                "owner": "hwclass",
+                "repo": "awesome-sound",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mobile marketing and development",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35895289,
+                "language": null,
+                "last_commit": "2026-08-03T10:26:37Z",
+                "owner": "alec-c4",
+                "repo": "awesome-mobile",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ethics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179366089,
+                "language": null,
+                "last_commit": "2019-04-17T22:51:47Z",
+                "owner": "HussainAther",
+                "repo": "awesome-ethics",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Image coloring",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189833747,
+                "language": null,
+                "last_commit": "2023-02-05T13:50:34Z",
+                "owner": "oskar-j",
+                "repo": "awesome-image-coloring",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BSD Software",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308906271,
+                "language": null,
+                "last_commit": "2020-11-21T18:15:25Z",
+                "owner": "SaintFenix",
+                "repo": "Awesome-BSD-Ports-Programs-And-Projects",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UI Styleguide",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "UI Components for Styleguide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 159008574,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-17T07:25:27Z",
+                    "owner": "anubhavsrivastava",
+                    "repo": "awesome-ui-component-library",
+                    "stars": 1712
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": true,
+                "id": 34108928,
+                "language": "Slim",
+                "last_commit": "2022-09-30T04:07:19Z",
+                "owner": "kevinwuhoo",
+                "repo": "ui-styleguides",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swedish",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63480887,
+                "language": null,
+                "last_commit": "2025-11-11T08:20:44Z",
+                "owner": "gurre",
+                "repo": "awesome-swedish-opensource",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Service Fabric",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118105935,
+                "language": "Shell",
+                "last_commit": "2019-01-25T07:38:01Z",
+                "owner": "lawrencegripper",
+                "repo": "awesome-servicefabric",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Taglines",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208444251,
+                "language": null,
+                "last_commit": "2025-02-14T20:09:14Z",
+                "owner": "miketheman",
+                "repo": "awesome-taglines",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Twilio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104248682,
+                "language": null,
+                "last_commit": "2017-09-20T18:34:40Z",
+                "owner": "Twilio-org",
+                "repo": "awesome-twilio",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Motion Design for Web",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43492763,
+                "language": null,
+                "last_commit": "2015-10-23T01:07:59Z",
+                "owner": "lucasmaiaesilva",
+                "repo": "awesome-motion-design-web",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FluidApp Resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37578130,
+                "language": "JavaScript",
+                "last_commit": "2015-06-17T07:04:15Z",
+                "owner": "lborgav",
+                "repo": "awesome-fluidapp",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Accessibility",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @a11yproject",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7548246,
+                    "language": "Nunjucks",
+                    "last_commit": "2026-08-13T23:44:13Z",
+                    "owner": "a11yproject",
+                    "repo": "a11yproject.com",
+                    "stars": 3879
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @brunopulis",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35356178,
+                    "language": null,
+                    "last_commit": "2026-08-03T22:10:04Z",
+                    "owner": "brunopulis",
+                    "repo": "awesome-a11y",
+                    "stars": 1981
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "API",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @Kikobeats",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28921349,
+                    "language": null,
+                    "last_commit": "2024-10-12T18:35:34Z",
+                    "owner": "Kikobeats",
+                    "repo": "awesome-api",
+                    "stars": 2961
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @toddmotto",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 472697800,
+                    "language": null,
+                    "last_commit": "2024-06-23T16:11:30Z",
+                    "owner": "toddmotto",
+                    "repo": "public-apis",
+                    "stars": 2739
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Big data",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @onurakpolat",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21500692,
+                    "language": null,
+                    "last_commit": "2026-07-31T12:51:12Z",
+                    "owner": "oxnr",
+                    "repo": "awesome-bigdata",
+                    "stars": 14541
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hadoop",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21599652,
+                    "language": null,
+                    "last_commit": "2024-05-07T19:21:33Z",
+                    "owner": "youngwookim",
+                    "repo": "awesome-hadoop",
+                    "stars": 1116
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @zenkay",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22544017,
+                    "language": "HTML",
+                    "last_commit": "2021-12-03T16:10:50Z",
+                    "owner": "zenkay",
+                    "repo": "bigdata-ecosystem",
+                    "stars": 581
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Blockchain",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @kennethreitz",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 101078039,
+                    "language": null,
+                    "last_commit": "2023-07-20T07:10:14Z",
+                    "owner": "Zheaoli",
+                    "repo": "awesome-coins",
+                    "stars": 4095
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @openblockchains",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 103458675,
+                    "language": "Ruby",
+                    "last_commit": "2023-02-10T16:37:58Z",
+                    "owner": "openblockchains",
+                    "repo": "awesome-blockchains",
+                    "stars": 3778
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @imbaniac",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 79223400,
+                    "language": null,
+                    "last_commit": "2024-04-02T13:22:26Z",
+                    "owner": "imbaniac",
+                    "repo": "awesome-blockchain",
+                    "stars": 891
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @igorbarinov",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36278697,
+                    "language": null,
+                    "last_commit": "2023-02-10T16:15:01Z",
+                    "owner": "igorbarinov",
+                    "repo": "awesome-blockchain",
+                    "stars": 634
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @coderplex",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 104329465,
+                    "language": null,
+                    "last_commit": "2020-10-20T22:32:50Z",
+                    "owner": "coderplex-org",
+                    "repo": "awesome-blockchain",
+                    "stars": 204
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ripple",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14434679,
+                    "language": null,
+                    "last_commit": "2021-07-02T15:40:31Z",
+                    "owner": "vhpoet",
+                    "repo": "awesome-ripple",
+                    "stars": 200
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @hitripod",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 112935015,
+                    "language": null,
+                    "last_commit": "2023-03-31T07:40:58Z",
+                    "owner": "hitripod",
+                    "repo": "awesome-blockchain",
+                    "stars": 118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @0xtokens",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 140206235,
+                    "language": "HTML",
+                    "last_commit": "2024-04-02T13:40:00Z",
+                    "owner": "0xtokens",
+                    "repo": "awesome-blockchain",
+                    "stars": 85
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @istinspring",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 58314859,
+                    "language": null,
+                    "last_commit": "2025-11-02T11:49:48Z",
+                    "owner": "oiwn",
+                    "repo": "awesome-fhe-cryptography",
+                    "stars": 56
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @iNiKe",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 116160645,
+                    "language": null,
+                    "last_commit": "2018-01-03T19:11:58Z",
+                    "owner": "iNiKe",
+                    "repo": "awesome-blockchain",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "group",
+                  "title": "Bitcoin",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "by @igorbarinov",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 36278089,
+                        "language": null,
+                        "last_commit": "2026-08-12T15:11:07Z",
+                        "owner": "igorbarinov",
+                        "repo": "awesome-bitcoin",
+                        "stars": 1352
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Bitcoin Payment Processors",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 163131736,
+                        "language": null,
+                        "last_commit": "2025-03-21T10:13:45Z",
+                        "owner": "alexk111",
+                        "repo": "awesome-bitcoin-payment-processors",
+                        "stars": 558
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "by @btcbrdev",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 33575239,
+                        "language": null,
+                        "last_commit": "2015-04-16T20:32:21Z",
+                        "owner": "btcbrdev",
+                        "repo": "awesome-btcdev",
+                        "stars": 64
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "Ethereum",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "awesome-ethereum-virtual-machine",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 95651166,
+                        "language": null,
+                        "last_commit": "2026-02-26T14:28:38Z",
+                        "owner": "pirapira",
+                        "repo": "awesome-ethereum-virtual-machine",
+                        "stars": 851
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "by @Tom2718",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 150175905,
+                        "language": null,
+                        "last_commit": "2024-07-12T08:10:18Z",
+                        "owner": "ttumiel",
+                        "repo": "Awesome-Ethereum",
+                        "stars": 364
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "by @vinsgo",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 53702640,
+                        "language": null,
+                        "last_commit": "2023-01-28T15:22:56Z",
+                        "owner": "lampGit",
+                        "repo": "awesome-ethereum",
+                        "stars": 116
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Books",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Free Programming Books",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13491895,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T14:16:15Z",
+                    "owner": "EbookFoundation",
+                    "repo": "free-programming-books",
+                    "stars": 395132
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mind Expanding Books",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36554250,
+                    "language": "JavaScript",
+                    "last_commit": "2024-11-09T17:06:27Z",
+                    "owner": "hackerkid",
+                    "repo": "Mind-Expanding-Books",
+                    "stars": 14179
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Free Software Testing Books",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19713206,
+                    "language": null,
+                    "last_commit": "2023-02-01T15:23:18Z",
+                    "owner": "ligurio",
+                    "repo": "sqa-wiki",
+                    "stars": 2320
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Cryptography",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @sobolevn",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 59573221,
+                    "language": null,
+                    "last_commit": "2026-07-15T08:39:47Z",
+                    "owner": "sobolevn",
+                    "repo": "awesome-cryptography",
+                    "stars": 7087
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @coinpride",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 102755229,
+                    "language": null,
+                    "last_commit": "2024-06-19T20:53:40Z",
+                    "owner": "coinpride",
+                    "repo": "CryptoList",
+                    "stars": 4469
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @MaciejCzyzewski",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 70747022,
+                    "language": "C",
+                    "last_commit": "2017-03-06T20:43:46Z",
+                    "owner": "maciejczyzewski",
+                    "repo": "retter",
+                    "stars": 118
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Datasets",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @caesar0301",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 26898879,
+                    "language": null,
+                    "last_commit": "2026-08-23T23:52:17Z",
+                    "owner": "awesomedata",
+                    "repo": "awesome-public-datasets",
+                    "stars": 78582
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @leomaurodesenv",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 151342385,
+                    "language": null,
+                    "last_commit": "2026-08-08T01:57:45Z",
+                    "owner": "leomaurodesenv",
+                    "repo": "game-datasets",
+                    "stars": 1107
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Deep Learning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @ChristosChristofidis",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28723659,
+                    "language": null,
+                    "last_commit": "2025-05-26T12:28:00Z",
+                    "owner": "ChristosChristofidis",
+                    "repo": "awesome-deep-learning",
+                    "stars": 28804
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @guillaume-chevalier",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 74903728,
+                    "language": null,
+                    "last_commit": "2024-01-18T13:35:40Z",
+                    "owner": "guillaume-chevalier",
+                    "repo": "Awesome-Deep-Learning-Resources",
+                    "stars": 1814
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @tigerneil",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 80825974,
+                    "language": "HTML",
+                    "last_commit": "2024-03-01T08:20:45Z",
+                    "owner": "tigerneil",
+                    "repo": "awesome-deep-rl",
+                    "stars": 1513
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @nerox8664",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 160491129,
+                    "language": null,
+                    "last_commit": "2021-05-09T08:20:30Z",
+                    "owner": "gmalivenko",
+                    "repo": "awesome-computer-vision-models",
+                    "stars": 543
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Frontend",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @dypsilon",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10865436,
+                    "language": null,
+                    "last_commit": "2024-05-21T10:56:58Z",
+                    "owner": "dypsilon",
+                    "repo": "frontend-dev-bookmarks",
+                    "stars": 47420
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @moklick",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24817507,
+                    "language": null,
+                    "last_commit": "2024-06-26T14:26:52Z",
+                    "owner": "moklick",
+                    "repo": "frontend-stuff",
+                    "stars": 8952
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "GIF",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @Kikobeats",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 27223854,
+                    "language": null,
+                    "last_commit": "2018-10-29T20:22:06Z",
+                    "owner": "Kikobeats",
+                    "repo": "awesome-gif",
+                    "stars": 106
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Guides",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @narkoz",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29089818,
+                    "language": null,
+                    "last_commit": "2025-07-02T10:02:32Z",
+                    "owner": "NARKOZ",
+                    "repo": "guides",
+                    "stars": 2421
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @RichardLitt",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23323231,
+                    "language": "Shell",
+                    "last_commit": "2019-04-18T07:14:56Z",
+                    "owner": "RichardLitt",
+                    "repo": "awesome-styleguides",
+                    "stars": 740
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Hacking",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @Hack-with-Github",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55076063,
+                    "language": null,
+                    "last_commit": "2026-07-26T03:29:02Z",
+                    "owner": "Hack-with-Github",
+                    "repo": "Awesome-Hacking",
+                    "stars": 118951
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @carpedm20",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28084589,
+                    "language": null,
+                    "last_commit": "2024-06-02T22:40:13Z",
+                    "owner": "carpedm20",
+                    "repo": "awesome-hacking",
+                    "stars": 16929
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Lists",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @sindresorhus",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21737465,
+                    "language": null,
+                    "last_commit": "2026-08-21T12:39:13Z",
+                    "owner": "sindresorhus",
+                    "repo": "awesome",
+                    "stars": 499503
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @bayandin",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21600440,
+                    "language": "Ruby",
+                    "last_commit": "2024-06-02T22:46:41Z",
+                    "owner": "bayandin",
+                    "repo": "awesome-awesomeness",
+                    "stars": 33620
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @jnv",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14408715,
+                    "language": null,
+                    "last_commit": "2026-03-23T20:19:22Z",
+                    "owner": "jnv",
+                    "repo": "lists",
+                    "stars": 11436
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "[Mac]",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @xyNNN",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41059350,
+                    "language": null,
+                    "last_commit": "2026-08-02T19:45:42Z",
+                    "owner": "xyNNN",
+                    "repo": "awesome-mac",
+                    "stars": 162
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @justin-j",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28901012,
+                    "language": null,
+                    "last_commit": "2022-07-29T06:06:03Z",
+                    "owner": "justin-j",
+                    "repo": "awesome-mac-apps",
+                    "stars": 54
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Newsletters",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @vredniy",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40307075,
+                    "language": null,
+                    "last_commit": "2026-04-17T18:23:06Z",
+                    "owner": "zudochkin",
+                    "repo": "awesome-newsletters",
+                    "stars": 4452
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @webpro",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 39699215,
+                    "language": null,
+                    "last_commit": "2021-04-19T06:39:07Z",
+                    "owner": "webpro",
+                    "repo": "awesome-newsletters",
+                    "stars": 388
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @mpron",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30768014,
+                    "language": null,
+                    "last_commit": "2024-06-13T15:32:52Z",
+                    "owner": "mpron",
+                    "repo": "awesome-newsletters",
+                    "stars": 36
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Protocols",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OSC",
+                  "description": "(open sound control)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 108233897,
+                    "language": null,
+                    "last_commit": "2025-12-01T21:46:24Z",
+                    "owner": "amir-arad",
+                    "repo": "awesome-osc",
+                    "stars": 33
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Raspberry Pi",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @thibmaek",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 68380413,
+                    "language": "Shell",
+                    "last_commit": "2026-07-27T10:19:55Z",
+                    "owner": "thibmaek",
+                    "repo": "awesome-raspberry-pi",
+                    "stars": 16782
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @blackout314",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 38572614,
+                    "language": "Shell",
+                    "last_commit": "2026-07-29T20:32:49Z",
+                    "owner": "blackout314",
+                    "repo": "awesome-raspberry-pi",
+                    "stars": 460
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Search Engine Optimization (SEO)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @marcobiedermann",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28194997,
+                    "language": null,
+                    "last_commit": "2025-02-24T11:03:29Z",
+                    "owner": "marcobiedermann",
+                    "repo": "search-engine-optimization",
+                    "stars": 2768
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @teles",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43190948,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-02T07:42:41Z",
+                    "owner": "teles",
+                    "repo": "awesome-seo",
+                    "stars": 885
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @sneg55",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 77407757,
+                    "language": "CSS",
+                    "last_commit": "2020-04-23T06:41:53Z",
+                    "owner": "sneg55",
+                    "repo": "curatedseotools",
+                    "stars": 471
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Vim",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by @akrawchyk",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22468657,
+                    "language": null,
+                    "last_commit": "2025-06-06T18:42:55Z",
+                    "owner": "akrawchyk",
+                    "repo": "awesome-vim",
+                    "stars": 2126
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by @matteocrippa",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 22515504,
+                    "language": null,
+                    "last_commit": "2019-01-18T10:51:08Z",
+                    "owner": "matteocrippa",
+                    "repo": "awesome-vim",
+                    "stars": 161
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "XMPP",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ejabberd",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 144709555,
+                    "language": null,
+                    "last_commit": "2018-08-14T16:14:18Z",
+                    "owner": "shantanu-deshmukh",
+                    "repo": "awesome-ejabberd",
+                    "stars": 11
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T10:24:01.323Z",
+    "last_updated": "2026-08-24T13:49:03.105Z",
     "original_repository": "bayandin/awesome-awesomeness",
     "original_repository_id": 21600440,
     "original_repository_sha": "c35ea15c5db11409f2bd6467725bcec57d9689df",
