@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "Package-Manager",
-              "description": null,
+              "description": "damon-kwok/awesome-package-manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -43,7 +43,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "avelino/awesome-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -52,11 +52,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T14:59:32Z",
+                "last_commit": "2026-10-03T00:11:10Z",
                 "open_issues": 234,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 186558,
+                "stars": 186646,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -71,7 +71,7 @@
             {
               "node_type": "item",
               "title": "C/C++",
-              "description": null,
+              "description": "fffaraz/awesome-cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -84,7 +84,7 @@
                 "open_issues": 311,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73572,
+                "stars": 73584,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -105,7 +105,7 @@
             {
               "node_type": "item",
               "title": "Rust",
-              "description": null,
+              "description": "rust-unofficial/awesome-rust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -118,7 +118,7 @@
                 "open_issues": 9,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59643,
+                "stars": 59657,
                 "topics": [
                   "awesome",
                   "rust"
@@ -129,7 +129,7 @@
             {
               "node_type": "item",
               "title": "Java",
-              "description": null,
+              "description": "akullpp/awesome-java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -142,7 +142,7 @@
                 "open_issues": 10,
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 49142,
+                "stars": 49144,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -153,7 +153,7 @@
             {
               "node_type": "item",
               "title": "Shell",
-              "description": null,
+              "description": "alebcay/awesome-shell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -166,7 +166,7 @@
                 "open_issues": 188,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37704,
+                "stars": 37708,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -183,12 +183,12 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "sorrycc/awesome-javascript",
               "children": [
                 {
                   "node_type": "item",
                   "title": "React",
-                  "description": null,
+                  "description": "enaqx/awesome-react",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -201,7 +201,7 @@
                     "open_issues": 17,
                     "owner": "enaqx",
                     "repo": "awesome-react",
-                    "stars": 74777,
+                    "stars": 74782,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -220,7 +220,7 @@
                 {
                   "node_type": "item",
                   "title": "VueJS",
-                  "description": null,
+                  "description": "vuejs/awesome-vue",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -233,7 +233,7 @@
                     "open_issues": 82,
                     "owner": "vuejs",
                     "repo": "awesome-vue",
-                    "stars": 73537,
+                    "stars": 73538,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:00:01.609Z"
@@ -241,12 +241,12 @@
                 {
                   "node_type": "item",
                   "title": "Node.js",
-                  "description": null,
+                  "description": "sindresorhus/awesome-nodejs",
                   "children": [
                     {
                       "node_type": "item",
                       "title": "Cross-platform Node.js",
-                      "description": null,
+                      "description": "bcoe/awesome-cross-platform-nodejs",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -270,7 +270,7 @@
                     {
                       "node_type": "item",
                       "title": "Node ESM",
-                      "description": null,
+                      "description": "v1rtl/awesome-node-esm",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -309,7 +309,7 @@
                     "open_issues": 24,
                     "owner": "sindresorhus",
                     "repo": "awesome-nodejs",
-                    "stars": 66977,
+                    "stars": 66985,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -324,7 +324,7 @@
                 {
                   "node_type": "item",
                   "title": "Angular 2",
-                  "description": null,
+                  "description": "PatrickJS/awesome-angular",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -333,11 +333,11 @@
                     "id": 41718185,
                     "language": "HTML",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-01T20:14:24Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-02T17:01:40Z",
+                    "open_issues": 0,
                     "owner": "PatrickJS",
                     "repo": "awesome-angular",
-                    "stars": 10079,
+                    "stars": 10078,
                     "topics": [
                       "angular",
                       "angular-components",
@@ -355,7 +355,7 @@
                 {
                   "node_type": "item",
                   "title": "JavaScript Learning Resources",
-                  "description": null,
+                  "description": "micromata/awesome-javascript-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -368,7 +368,7 @@
                     "open_issues": 10,
                     "owner": "micromata",
                     "repo": "awesome-javascript-learning",
-                    "stars": 5858,
+                    "stars": 5859,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -383,7 +383,7 @@
                 {
                   "node_type": "item",
                   "title": "Svelte",
-                  "description": null,
+                  "description": "sveltejs/integrations",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -410,7 +410,7 @@
                 {
                   "node_type": "item",
                   "title": "Koa",
-                  "description": null,
+                  "description": "ellerbrock/awesome-koa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -440,7 +440,7 @@
                 {
                   "node_type": "item",
                   "title": "Ember.js",
-                  "description": null,
+                  "description": "nmec/awesome-ember",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -478,12 +478,12 @@
             {
               "node_type": "item",
               "title": "PHP",
-              "description": null,
+              "description": "ziadoz/awesome-php",
               "children": [
                 {
                   "node_type": "item",
                   "title": "CakePHP",
-                  "description": null,
+                  "description": "FriendsOfCake/awesome-cakephp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -492,8 +492,8 @@
                     "id": 22418008,
                     "language": null,
                     "license": "WTFPL",
-                    "last_commit": "2026-08-25T09:35:10Z",
-                    "open_issues": 18,
+                    "last_commit": "2026-10-02T21:50:30Z",
+                    "open_issues": 16,
                     "owner": "FriendsOfCake",
                     "repo": "awesome-cakephp",
                     "stars": 936,
@@ -516,7 +516,7 @@
                 "open_issues": 94,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32721,
+                "stars": 32722,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -532,7 +532,7 @@
             {
               "node_type": "item",
               "title": "Go Patterns",
-              "description": null,
+              "description": "tmrts/go-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -561,7 +561,7 @@
             {
               "node_type": "item",
               "title": "Elixir",
-              "description": null,
+              "description": "h4cc/awesome-elixir",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -574,7 +574,7 @@
                 "open_issues": 36,
                 "owner": "h4cc",
                 "repo": "awesome-elixir",
-                "stars": 13168,
+                "stars": 13167,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:01.609Z"
@@ -582,7 +582,7 @@
             {
               "node_type": "item",
               "title": "Postgres",
-              "description": null,
+              "description": "dhamaniasad/awesome-postgres",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -607,7 +607,7 @@
             {
               "node_type": "item",
               "title": "Kotlin",
-              "description": null,
+              "description": "Heapy/awesome-kotlin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -635,7 +635,7 @@
             {
               "node_type": "item",
               "title": "Scala",
-              "description": null,
+              "description": "lauris/awesome-scala",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -662,7 +662,7 @@
             {
               "node_type": "item",
               "title": "R",
-              "description": null,
+              "description": "qinwf/awesome-R",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -675,7 +675,7 @@
                 "open_issues": 28,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6515,
+                "stars": 6516,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -691,7 +691,7 @@
             {
               "node_type": "item",
               "title": "CMake",
-              "description": null,
+              "description": "onqtam/awesome-cmake",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -704,7 +704,7 @@
                 "open_issues": 4,
                 "owner": "onqtam",
                 "repo": "awesome-cmake",
-                "stars": 5420,
+                "stars": 5421,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -722,7 +722,7 @@
             {
               "node_type": "item",
               "title": "Elm",
-              "description": null,
+              "description": "sporto/awesome-elm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -752,7 +752,7 @@
             {
               "node_type": "item",
               "title": "Crystal",
-              "description": null,
+              "description": "veelenga/awesome-crystal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -779,7 +779,7 @@
             {
               "node_type": "item",
               "title": "Haskell",
-              "description": null,
+              "description": "krispo/awesome-haskell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -800,7 +800,7 @@
             {
               "node_type": "item",
               "title": "OCaml",
-              "description": null,
+              "description": "ocaml-community/awesome-ocaml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +826,7 @@
             {
               "node_type": "item",
               "title": "AutoHotkey",
-              "description": null,
+              "description": "ahkscript/awesome-AutoHotkey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -847,7 +847,7 @@
             {
               "node_type": "item",
               "title": "MongoDB",
-              "description": null,
+              "description": "ramnes/awesome-mongodb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -874,7 +874,7 @@
             {
               "node_type": "item",
               "title": "MySQL",
-              "description": null,
+              "description": "shlomi-noach/awesome-mysql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -895,7 +895,7 @@
             {
               "node_type": "item",
               "title": "V",
-              "description": null,
+              "description": "vlang/awesome-v",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -920,7 +920,7 @@
             {
               "node_type": "item",
               "title": "Coronavirus",
-              "description": null,
+              "description": "soroushchehresa/awesome-coronavirus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -956,7 +956,7 @@
             {
               "node_type": "item",
               "title": "Julia",
-              "description": null,
+              "description": "svaksha/Julia.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -969,7 +969,7 @@
                 "open_issues": 24,
                 "owner": "svaksha",
                 "repo": "Julia.jl",
-                "stars": 1517,
+                "stars": 1516,
                 "topics": [
                   "agplv3",
                   "awesome-list",
@@ -990,7 +990,7 @@
             {
               "node_type": "item",
               "title": "F#",
-              "description": null,
+              "description": "fsprojects/awesome-fsharp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1016,7 +1016,7 @@
             {
               "node_type": "item",
               "title": "Ansible",
-              "description": null,
+              "description": "jdauphant/awesome-ansible",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1037,7 +1037,7 @@
             {
               "node_type": "item",
               "title": "AutoIt",
-              "description": null,
+              "description": "J2TEAM/awesome-AutoIt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1067,7 +1067,7 @@
             {
               "node_type": "item",
               "title": "Ada(Spark)",
-              "description": null,
+              "description": "ohenley/awesome-ada",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1100,7 +1100,7 @@
             {
               "node_type": "item",
               "title": "D",
-              "description": null,
+              "description": "dlang-community/awesome-d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1123,7 +1123,7 @@
             {
               "node_type": "item",
               "title": "Groovy",
-              "description": null,
+              "description": "kdabir/awesome-groovy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1149,7 +1149,7 @@
             {
               "node_type": "item",
               "title": "Perl",
-              "description": null,
+              "description": "hachiojipm/awesome-perl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1170,7 +1170,7 @@
             {
               "node_type": "item",
               "title": "Nim",
-              "description": null,
+              "description": "vpashkov/awesome-nim",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1195,7 +1195,7 @@
             {
               "node_type": "item",
               "title": "Fortran",
-              "description": null,
+              "description": "rabbiabram/awesome-fortran",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1216,7 +1216,7 @@
             {
               "node_type": "item",
               "title": "Idris",
-              "description": null,
+              "description": "joaomilho/awesome-idris",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1244,7 +1244,7 @@
             {
               "node_type": "item",
               "title": "Delphi",
-              "description": null,
+              "description": "Fr0sT-Brutal/awesome-delphi",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1265,7 +1265,7 @@
             {
               "node_type": "item",
               "title": "ColdFusion",
-              "description": null,
+              "description": "seancoyne/awesome-coldfusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1290,7 +1290,7 @@
             {
               "node_type": "item",
               "title": "Kotlin/Native",
-              "description": null,
+              "description": "bipinvaylu/awesome-kotlin-native",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1311,12 +1311,12 @@
             {
               "node_type": "item",
               "title": ".NET - by @mehdihadeli",
-              "description": null,
+              "description": "mehdihadeli/awesome-dotnet-core-education",
               "children": [
                 {
                   "node_type": "item",
                   "title": "by @quozd",
-                  "description": null,
+                  "description": "quozd/awesome-dotnet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1329,7 +1329,7 @@
                     "open_issues": 163,
                     "owner": "quozd",
                     "repo": "awesome-dotnet",
-                    "stars": 21637,
+                    "stars": 21639,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1344,7 +1344,7 @@
                 {
                   "node_type": "item",
                   "title": "by @thangchung",
-                  "description": null,
+                  "description": "thangchung/awesome-dotnet-core",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1357,7 +1357,7 @@
                     "open_issues": 217,
                     "owner": "thangchung",
                     "repo": "awesome-dotnet-core",
-                    "stars": 21400,
+                    "stars": 21398,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1372,7 +1372,7 @@
                 {
                   "node_type": "item",
                   "title": "by @tallesl",
-                  "description": null,
+                  "description": "tallesl/net-libraries-that-make-your-life-easier",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1425,7 +1425,7 @@
             {
               "node_type": "item",
               "title": "SAS",
-              "description": null,
+              "description": "huyingjie/awesome-SAS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1451,7 +1451,7 @@
                 {
                   "node_type": "item",
                   "title": "by @razum2um",
-                  "description": null,
+                  "description": "razum2um/awesome-clojure",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1476,7 +1476,7 @@
                 {
                   "node_type": "item",
                   "title": "by @mbuczko",
-                  "description": null,
+                  "description": "mbuczko/awesome-clojure",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1508,7 +1508,7 @@
                 {
                   "node_type": "item",
                   "title": "Common Lisp Libraries",
-                  "description": null,
+                  "description": "CodyReichert/awesome-cl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1536,7 +1536,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Common Lisp",
-                  "description": null,
+                  "description": "GustavBertram/awesome-common-lisp-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1568,7 +1568,7 @@
                 {
                   "node_type": "item",
                   "title": "by @drobakowski",
-                  "description": null,
+                  "description": "drobakowski/awesome-erlang",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1595,7 +1595,7 @@
                 {
                   "node_type": "item",
                   "title": "by @0xAX",
-                  "description": null,
+                  "description": "0xAX/erlang-bookmarks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1616,7 +1616,7 @@
                 {
                   "node_type": "item",
                   "title": "by @unbalancedparentheses",
-                  "description": null,
+                  "description": "unbalancedparentheses/spawnedshelter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1651,7 +1651,7 @@
                 {
                   "node_type": "item",
                   "title": "by @lewisjellis",
-                  "description": null,
+                  "description": "LewisJEllis/awesome-lua",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1664,7 +1664,7 @@
                     "open_issues": 50,
                     "owner": "LewisJEllis",
                     "repo": "awesome-lua",
-                    "stars": 4579,
+                    "stars": 4578,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:00:01.609Z"
@@ -1672,7 +1672,7 @@
                 {
                   "node_type": "item",
                   "title": "by @forhappy",
-                  "description": null,
+                  "description": "forhappy/awesome-lua",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1700,7 +1700,7 @@
                 {
                   "node_type": "item",
                   "title": "by @vinta",
-                  "description": null,
+                  "description": "vinta/awesome-python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1710,10 +1710,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T12:01:28Z",
-                    "open_issues": 20,
+                    "open_issues": 21,
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 324657,
+                    "stars": 324779,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1728,7 +1728,7 @@
                 {
                   "node_type": "item",
                   "title": "by @trekhleb",
-                  "description": null,
+                  "description": "trekhleb/learn-python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1741,7 +1741,7 @@
                     "open_issues": 43,
                     "owner": "trekhleb",
                     "repo": "learn-python",
-                    "stars": 18337,
+                    "stars": 18336,
                     "topics": [
                       "learning",
                       "learning-by-doing",
@@ -1756,7 +1756,7 @@
                 {
                   "node_type": "item",
                   "title": "by @kirang89",
-                  "description": null,
+                  "description": "kirang89/pycrumbs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1781,7 +1781,7 @@
                 {
                   "node_type": "item",
                   "title": "by @svaksha",
-                  "description": null,
+                  "description": "svaksha/pythonidae",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1805,7 +1805,7 @@
                 {
                   "node_type": "item",
                   "title": "awesome-python-in-education",
-                  "description": null,
+                  "description": "quobit/awesome-python-in-education",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1840,7 +1840,7 @@
                 {
                   "node_type": "item",
                   "title": "by @markets",
-                  "description": null,
+                  "description": "markets/awesome-ruby",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1853,7 +1853,7 @@
                     "open_issues": 9,
                     "owner": "markets",
                     "repo": "awesome-ruby",
-                    "stars": 14163,
+                    "stars": 14164,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1868,7 +1868,7 @@
                 {
                   "node_type": "item",
                   "title": "by @dreikanter",
-                  "description": null,
+                  "description": "dreikanter/ruby-bookmarks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1896,7 +1896,7 @@
                 {
                   "node_type": "item",
                   "title": "by @Sdogruyol",
-                  "description": null,
+                  "description": "sdogruyol/awesome-ruby",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1917,7 +1917,7 @@
                 {
                   "node_type": "item",
                   "title": "by @asyraffff",
-                  "description": null,
+                  "description": "asyraffff/Open-Source-Ruby-and-Rails-Apps",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1966,7 +1966,7 @@
                 {
                   "node_type": "item",
                   "title": "by @matteocrippa",
-                  "description": null,
+                  "description": "matteocrippa/awesome-swift",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1979,7 +1979,7 @@
                     "open_issues": 16,
                     "owner": "matteocrippa",
                     "repo": "awesome-swift",
-                    "stars": 26310,
+                    "stars": 26309,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -2001,7 +2001,7 @@
                 {
                   "node_type": "item",
                   "title": "by @Wolg",
-                  "description": null,
+                  "description": "Wolg/awesome-swift",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2014,7 +2014,7 @@
                     "open_issues": 111,
                     "owner": "Wolg",
                     "repo": "awesome-swift",
-                    "stars": 5890,
+                    "stars": 5892,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -2030,7 +2030,7 @@
                 {
                   "node_type": "item",
                   "title": "by @MaxChen",
-                  "description": null,
+                  "description": "MaxChen/awesome-swift-and-tutorial-resources",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2058,7 +2058,7 @@
                 {
                   "node_type": "item",
                   "title": "by @dzharii",
-                  "description": null,
+                  "description": "dzharii/awesome-typescript",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2079,7 +2079,7 @@
                 {
                   "node_type": "item",
                   "title": "by @brookshi",
-                  "description": null,
+                  "description": "brookshi/awesome-typescript-projects",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2104,7 +2104,7 @@
                 {
                   "node_type": "item",
                   "title": "by @ellerbrock",
-                  "description": null,
+                  "description": "ellerbrock/awesome-typescript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2136,7 +2136,7 @@
             {
               "node_type": "item",
               "title": "Selfhosted",
-              "description": null,
+              "description": "awesome-selfhosted/awesome-selfhosted",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2145,11 +2145,11 @@
                 "id": 36633370,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T10:41:04Z",
+                "last_commit": "2026-10-02T16:22:23Z",
                 "open_issues": 0,
                 "owner": "awesome-selfhosted",
                 "repo": "awesome-selfhosted",
-                "stars": 323354,
+                "stars": 323478,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2166,7 +2166,7 @@
             {
               "node_type": "item",
               "title": "Free Services",
-              "description": null,
+              "description": "ripienaar/free-for-dev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2175,11 +2175,11 @@
                 "id": 32484381,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-09-30T08:18:17Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-02T19:43:27Z",
+                "open_issues": 14,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 139071,
+                "stars": 139095,
                 "topics": [
                   "awesome-list",
                   "free-for-developers"
@@ -2190,7 +2190,7 @@
             {
               "node_type": "item",
               "title": "Papers",
-              "description": null,
+              "description": "papers-we-love/papers-we-love",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2203,7 +2203,7 @@
                 "open_issues": 4,
                 "owner": "papers-we-love",
                 "repo": "papers-we-love",
-                "stars": 110168,
+                "stars": 110189,
                 "topics": [
                   "awesome",
                   "computer-science",
@@ -2219,7 +2219,7 @@
             {
               "node_type": "item",
               "title": "Machine Learning",
-              "description": null,
+              "description": "josephmisiti/awesome-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2232,7 +2232,7 @@
                 "open_issues": 22,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74510,
+                "stars": 74511,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:01.609Z"
@@ -2240,7 +2240,7 @@
             {
               "node_type": "item",
               "title": "Scalability",
-              "description": null,
+              "description": "binhnguyennus/awesome-scalability",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2253,7 +2253,7 @@
                 "open_issues": 30,
                 "owner": "binhnguyennus",
                 "repo": "awesome-scalability",
-                "stars": 74472,
+                "stars": 74492,
                 "topics": [
                   "architecture",
                   "awesome",
@@ -2282,7 +2282,7 @@
             {
               "node_type": "item",
               "title": "Courses",
-              "description": null,
+              "description": "prakhar1989/awesome-courses",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2295,7 +2295,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71537,
+                "stars": 71549,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2308,7 +2308,7 @@
             {
               "node_type": "item",
               "title": "Flutter",
-              "description": null,
+              "description": "Solido/awesome-flutter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2321,7 +2321,7 @@
                 "open_issues": 38,
                 "owner": "Solido",
                 "repo": "awesome-flutter",
-                "stars": 61387,
+                "stars": 61396,
                 "topics": [
                   "android",
                   "awesome",
@@ -2348,12 +2348,12 @@
             {
               "node_type": "item",
               "title": "iOS",
-              "description": null,
+              "description": "vsouza/awesome-ios",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Open Source Apps",
-                  "description": null,
+                  "description": "dkhamsing/open-source-ios-apps",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2362,11 +2362,11 @@
                     "id": 29887499,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-02T14:45:17Z",
+                    "last_commit": "2026-10-02T17:00:50Z",
                     "open_issues": 4,
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 52380,
+                    "stars": 52392,
                     "topics": [
                       "app",
                       "apple",
@@ -2395,7 +2395,7 @@
                 {
                   "node_type": "item",
                   "title": "UI",
-                  "description": null,
+                  "description": "cjwirth/awesome-ios-ui",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2408,7 +2408,7 @@
                     "open_issues": 14,
                     "owner": "cjwirth",
                     "repo": "awesome-ios-ui",
-                    "stars": 11218,
+                    "stars": 11217,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:00:01.609Z"
@@ -2416,7 +2416,7 @@
                 {
                   "node_type": "item",
                   "title": "Cocoa Controls",
-                  "description": null,
+                  "description": "v-braun/awesome-cocoa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2457,7 +2457,7 @@
                 "open_issues": 27,
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53495,
+                "stars": 53502,
                 "topics": [
                   "apple-swift",
                   "arkit",
@@ -2479,7 +2479,7 @@
             {
               "node_type": "item",
               "title": "Design Patterns",
-              "description": null,
+              "description": "DovAmir/awesome-design-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2492,7 +2492,7 @@
                 "open_issues": 27,
                 "owner": "DovAmir",
                 "repo": "awesome-design-patterns",
-                "stars": 49168,
+                "stars": 49179,
                 "topics": [
                   "architecture",
                   "awesome",
@@ -2510,7 +2510,7 @@
             {
               "node_type": "item",
               "title": "Remote Job",
-              "description": null,
+              "description": "lukasz-madon/awesome-remote-job",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2523,7 +2523,7 @@
                 "open_issues": 110,
                 "owner": "lukasz-madon",
                 "repo": "awesome-remote-job",
-                "stars": 49158,
+                "stars": 49171,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2535,7 +2535,7 @@
             {
               "node_type": "item",
               "title": "Design Tools",
-              "description": null,
+              "description": "goabstract/Awesome-Design-Tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2545,10 +2545,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-07-28T19:57:31Z",
-                "open_issues": 210,
+                "open_issues": 211,
                 "owner": "goabstract",
                 "repo": "Awesome-Design-Tools",
-                "stars": 41374,
+                "stars": 41378,
                 "topics": [
                   "animations",
                   "awesome",
@@ -2565,7 +2565,7 @@
             {
               "node_type": "item",
               "title": "Docker",
-              "description": null,
+              "description": "veggiemonk/awesome-docker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2575,10 +2575,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T05:20:29Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36944,
+                "stars": 36949,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2605,7 +2605,7 @@
             {
               "node_type": "item",
               "title": "React Native",
-              "description": null,
+              "description": "jondot/awesome-react-native",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2615,10 +2615,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-26T14:11:18Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "jondot",
                 "repo": "awesome-react-native",
-                "stars": 35712,
+                "stars": 35711,
                 "topics": [
                   "awesome-list",
                   "mobile",
@@ -2631,12 +2631,12 @@
             {
               "node_type": "item",
               "title": "Data Science",
-              "description": null,
+              "description": "academic/awesome-datascience",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Notebooks",
-                  "description": null,
+                  "description": "jupyter-naas/awesome-notebooks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2649,7 +2649,7 @@
                     "open_issues": 116,
                     "owner": "jupyter-naas",
                     "repo": "awesome-notebooks",
-                    "stars": 3015,
+                    "stars": 3016,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -2675,7 +2675,7 @@
                     {
                       "node_type": "item",
                       "title": "by @r0f1",
-                      "description": null,
+                      "description": "r0f1/datascience",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2711,7 +2711,7 @@
                     {
                       "node_type": "item",
                       "title": "by @krzjoa",
-                      "description": null,
+                      "description": "krzjoa/awesome-python-data-science",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2751,11 +2751,11 @@
                 "id": 21515044,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-02T08:16:33Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-02T20:20:58Z",
+                "open_issues": 11,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 30100,
+                "stars": 30102,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -2774,7 +2774,7 @@
             {
               "node_type": "item",
               "title": "Falsehood",
-              "description": null,
+              "description": "kdeldycke/awesome-falsehood",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2787,7 +2787,7 @@
                 "open_issues": 4,
                 "owner": "kdeldycke",
                 "repo": "awesome-falsehood",
-                "stars": 27745,
+                "stars": 27747,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2816,7 +2816,7 @@
             {
               "node_type": "item",
               "title": "Electron",
-              "description": null,
+              "description": "sindresorhus/awesome-electron",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2829,7 +2829,7 @@
                 "open_issues": 7,
                 "owner": "sindresorhus",
                 "repo": "awesome-electron",
-                "stars": 27299,
+                "stars": 27301,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2842,12 +2842,12 @@
             {
               "node_type": "item",
               "title": "Algorithms",
-              "description": null,
+              "description": "tayllan/awesome-algorithms",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Algorithms Visualisation",
-                  "description": null,
+                  "description": "enjalot/algovis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2868,7 +2868,7 @@
                 {
                   "node_type": "item",
                   "title": "Big O Notation",
-                  "description": null,
+                  "description": "okulbilisim/awesome-big-o",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2898,7 +2898,7 @@
                 "open_issues": 0,
                 "owner": "tayllan",
                 "repo": "awesome-algorithms",
-                "stars": 25597,
+                "stars": 25598,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:01.609Z"
@@ -2906,7 +2906,7 @@
             {
               "node_type": "item",
               "title": "Games",
-              "description": null,
+              "description": "leereilly/games",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2934,7 +2934,7 @@
             {
               "node_type": "item",
               "title": "Sysadmin",
-              "description": null,
+              "description": "kahun/awesome-sysadmin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2947,7 +2947,7 @@
                 "open_issues": 273,
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
-                "stars": 24353,
+                "stars": 24354,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:01.609Z"
@@ -2955,7 +2955,7 @@
             {
               "node_type": "item",
               "title": "Computer Vision",
-              "description": null,
+              "description": "jbhuang0604/awesome-computer-vision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2976,7 +2976,7 @@
             {
               "node_type": "item",
               "title": "README",
-              "description": null,
+              "description": "matiassingers/awesome-readme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2989,7 +2989,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21528,
+                "stars": 21530,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3002,7 +3002,7 @@
             {
               "node_type": "item",
               "title": "Quick Look Plugins",
-              "description": null,
+              "description": "sindresorhus/quick-look-plugins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3023,7 +3023,7 @@
             {
               "node_type": "item",
               "title": "Design",
-              "description": null,
+              "description": "gztchan/awesome-design",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3036,7 +3036,7 @@
                 "open_issues": 63,
                 "owner": "gztchan",
                 "repo": "awesome-design",
-                "stars": 17590,
+                "stars": 17592,
                 "topics": [
                   "adobe",
                   "awesome",
@@ -3059,7 +3059,7 @@
             {
               "node_type": "item",
               "title": "Game Development",
-              "description": null,
+              "description": "ellisonleao/magictools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3072,7 +3072,7 @@
                 "open_issues": 27,
                 "owner": "ellisonleao",
                 "repo": "magictools",
-                "stars": 17402,
+                "stars": 17407,
                 "topics": [
                   "art",
                   "awesome",
@@ -3097,7 +3097,7 @@
             {
               "node_type": "item",
               "title": "Tools",
-              "description": null,
+              "description": "cjbarber/ToolsOfTheTrade",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3118,7 +3118,7 @@
             {
               "node_type": "item",
               "title": "Artificial intelligence",
-              "description": null,
+              "description": "owainlewis/awesome-artificial-intelligence",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3131,7 +3131,7 @@
                 "open_issues": 76,
                 "owner": "owainlewis",
                 "repo": "awesome-artificial-intelligence",
-                "stars": 16600,
+                "stars": 16602,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -3151,7 +3151,7 @@
             {
               "node_type": "item",
               "title": "Math",
-              "description": null,
+              "description": "rossant/awesome-math",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3161,10 +3161,10 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-14T08:36:36Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16516,
+                "stars": 16519,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3178,7 +3178,7 @@
             {
               "node_type": "item",
               "title": "Tailwind CSS",
-              "description": null,
+              "description": "aniftyco/awesome-tailwindcss",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3191,7 +3191,7 @@
                 "open_issues": 0,
                 "owner": "aniftyco",
                 "repo": "awesome-tailwindcss",
-                "stars": 15196,
+                "stars": 15198,
                 "topics": [
                   "apps",
                   "awesome",
@@ -3209,7 +3209,7 @@
             {
               "node_type": "item",
               "title": "GraphQL",
-              "description": null,
+              "description": "chentsulin/awesome-graphql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3218,11 +3218,11 @@
                 "id": 38958738,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-28T13:07:01Z",
+                "last_commit": "2026-10-03T03:03:11Z",
                 "open_issues": 2,
                 "owner": "chentsulin",
                 "repo": "awesome-graphql",
-                "stars": 15130,
+                "stars": 15129,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3235,7 +3235,7 @@
             {
               "node_type": "item",
               "title": "Security",
-              "description": null,
+              "description": "sbilly/awesome-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3248,7 +3248,7 @@
                 "open_issues": 350,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14928,
+                "stars": 14930,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -3259,7 +3259,7 @@
             {
               "node_type": "item",
               "title": "Static Analysis",
-              "description": null,
+              "description": "analysis-tools-dev/static-analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3272,7 +3272,7 @@
                 "open_issues": 2,
                 "owner": "analysis-tools-dev",
                 "repo": "static-analysis",
-                "stars": 14820,
+                "stars": 14821,
                 "topics": [
                   "analysis",
                   "awesome-list",
@@ -3290,7 +3290,7 @@
             {
               "node_type": "item",
               "title": "Malware Analysis",
-              "description": null,
+              "description": "rshipp/awesome-malware-analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3331,7 +3331,7 @@
             {
               "node_type": "item",
               "title": "Competitive Programming",
-              "description": null,
+              "description": "lnishan/awesome-competitive-programming",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3344,7 +3344,7 @@
                 "open_issues": 28,
                 "owner": "lnishan",
                 "repo": "awesome-competitive-programming",
-                "stars": 14203,
+                "stars": 14206,
                 "topics": [
                   "algorithm",
                   "awesome",
@@ -3365,7 +3365,7 @@
             {
               "node_type": "item",
               "title": "Amazon Web Services",
-              "description": null,
+              "description": "donnemartin/awesome-aws",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3378,7 +3378,7 @@
                 "open_issues": 103,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14166,
+                "stars": 14165,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -3407,7 +3407,7 @@
             {
               "node_type": "item",
               "title": ".htaccess",
-              "description": null,
+              "description": "phanan/htaccess",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3437,7 +3437,7 @@
             {
               "node_type": "item",
               "title": "Terminals Are Sexy",
-              "description": null,
+              "description": "k4m4/terminals-are-sexy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3463,7 +3463,7 @@
             {
               "node_type": "item",
               "title": "Laravel",
-              "description": null,
+              "description": "chiraggude/awesome-laravel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3476,7 +3476,7 @@
                 "open_issues": 93,
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
-                "stars": 13110,
+                "stars": 13111,
                 "topics": [
                   "awesome",
                   "laravel",
@@ -3488,12 +3488,12 @@
             {
               "node_type": "item",
               "title": "Android",
-              "description": null,
+              "description": "JStumpp/awesome-android",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Android UI",
-                  "description": null,
+                  "description": "wasabeef/awesome-android-ui",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3506,7 +3506,7 @@
                     "open_issues": 41,
                     "owner": "wasabeef",
                     "repo": "awesome-android-ui",
-                    "stars": 57801,
+                    "stars": 57805,
                     "topics": [
                       "android",
                       "awesome",
@@ -3518,7 +3518,7 @@
                 {
                   "node_type": "item",
                   "title": "Android Security",
-                  "description": null,
+                  "description": "ashishb/android-security-awesome",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3531,7 +3531,7 @@
                     "open_issues": 0,
                     "owner": "ashishb",
                     "repo": "android-security-awesome",
-                    "stars": 9722,
+                    "stars": 9723,
                     "topics": [
                       "android",
                       "awesome",
@@ -3545,7 +3545,7 @@
                 {
                   "node_type": "item",
                   "title": "Android Release Notes",
-                  "description": null,
+                  "description": "pedronveloso/awesome-android-release-notes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3575,7 +3575,7 @@
                 "open_issues": 100,
                 "owner": "JStumpp",
                 "repo": "awesome-android",
-                "stars": 12370,
+                "stars": 12368,
                 "topics": [
                   "android-development",
                   "android-library",
@@ -3591,7 +3591,7 @@
             {
               "node_type": "item",
               "title": "FastAPI",
-              "description": null,
+              "description": "mjhea0/awesome-fastapi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3601,10 +3601,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-24T17:18:28Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "mjhea0",
                 "repo": "awesome-fastapi",
-                "stars": 11699,
+                "stars": 11702,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3617,7 +3617,7 @@
             {
               "node_type": "item",
               "title": "Django",
-              "description": null,
+              "description": "wsvincent/awesome-django",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3627,10 +3627,10 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-16T14:16:35Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "wsvincent",
                 "repo": "awesome-django",
-                "stars": 11266,
+                "stars": 11268,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3642,7 +3642,7 @@
             {
               "node_type": "item",
               "title": "Hyper",
-              "description": null,
+              "description": "bnb/awesome-hyper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3655,7 +3655,7 @@
                 "open_issues": 23,
                 "owner": "bnb",
                 "repo": "awesome-hyper",
-                "stars": 11007,
+                "stars": 11008,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3670,7 +3670,7 @@
             {
               "node_type": "item",
               "title": "Dotfiles",
-              "description": null,
+              "description": "webpro/awesome-dotfiles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3702,7 +3702,7 @@
             {
               "node_type": "item",
               "title": "Threat Intelligence",
-              "description": null,
+              "description": "hslatman/awesome-threat-intelligence",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3715,7 +3715,7 @@
                 "open_issues": 143,
                 "owner": "hslatman",
                 "repo": "awesome-threat-intelligence",
-                "stars": 10692,
+                "stars": 10694,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3728,7 +3728,7 @@
             {
               "node_type": "item",
               "title": "Honeypots",
-              "description": null,
+              "description": "paralax/awesome-honeypots",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3738,10 +3738,10 @@
                 "language": "Python",
                 "license": "Artistic-2.0",
                 "last_commit": "2026-06-01T14:15:45Z",
-                "open_issues": 31,
+                "open_issues": 30,
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10576,
+                "stars": 10579,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3755,7 +3755,7 @@
             {
               "node_type": "item",
               "title": "Documentation",
-              "description": null,
+              "description": "matheusfelipeog/beautiful-docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3786,7 +3786,7 @@
             {
               "node_type": "item",
               "title": "Incident Response",
-              "description": null,
+              "description": "meirwah/awesome-incident-response",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3799,7 +3799,7 @@
                 "open_issues": 88,
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9426,
+                "stars": 9427,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3816,7 +3816,7 @@
             {
               "node_type": "item",
               "title": "Emacs",
-              "description": null,
+              "description": "emacs-tw/awesome-emacs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3829,7 +3829,7 @@
                 "open_issues": 34,
                 "owner": "emacs-tw",
                 "repo": "awesome-emacs",
-                "stars": 9386,
+                "stars": 9388,
                 "topics": [
                   "awesome-list",
                   "emacs"
@@ -3840,7 +3840,7 @@
             {
               "node_type": "item",
               "title": "Blazor",
-              "description": null,
+              "description": "AdrienTorris/awesome-blazor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3882,7 +3882,7 @@
             {
               "node_type": "item",
               "title": "Embedded",
-              "description": null,
+              "description": "nhivp/Awesome-Embedded",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3895,7 +3895,7 @@
                 "open_issues": 8,
                 "owner": "nhivp",
                 "repo": "Awesome-Embedded",
-                "stars": 9165,
+                "stars": 9166,
                 "topics": [
                   "ai",
                   "autosar",
@@ -3923,7 +3923,7 @@
             {
               "node_type": "item",
               "title": "Web Performance Optimization",
-              "description": null,
+              "description": "davidsonfellipe/awesome-wpo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3936,7 +3936,7 @@
                 "open_issues": 35,
                 "owner": "davidsonfellipe",
                 "repo": "awesome-wpo",
-                "stars": 9106,
+                "stars": 9104,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3951,7 +3951,7 @@
             {
               "node_type": "item",
               "title": "Serverless",
-              "description": null,
+              "description": "anaibol/awesome-serverless",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3979,7 +3979,7 @@
             {
               "node_type": "item",
               "title": "Robotics",
-              "description": null,
+              "description": "kiloreux/awesome-robotics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3992,7 +3992,7 @@
                 "open_issues": 43,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 7210,
+                "stars": 7213,
                 "topics": [
                   "robotics"
                 ]
@@ -4002,7 +4002,7 @@
             {
               "node_type": "item",
               "title": "Test Automation",
-              "description": null,
+              "description": "atinfo/awesome-test-automation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4012,10 +4012,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-11-28T16:02:39Z",
-                "open_issues": 146,
+                "open_issues": 147,
                 "owner": "atinfo",
                 "repo": "awesome-test-automation",
-                "stars": 7166,
+                "stars": 7167,
                 "topics": [
                   "android",
                   "awesome",
@@ -4044,7 +4044,7 @@
             {
               "node_type": "item",
               "title": "Unity",
-              "description": null,
+              "description": "RyanNielson/awesome-unity",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4069,7 +4069,7 @@
             {
               "node_type": "item",
               "title": "Pipelines",
-              "description": null,
+              "description": "pditommaso/awesome-pipeline",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4093,7 +4093,7 @@
             {
               "node_type": "item",
               "title": "RNN",
-              "description": null,
+              "description": "kjw0612/awesome-rnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4114,12 +4114,12 @@
             {
               "node_type": "item",
               "title": "Talks",
-              "description": null,
+              "description": "JanVanRyswyck/awesome-talks",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Gaming",
-                  "description": null,
+                  "description": "hzoo/awesome-gametalks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4157,7 +4157,7 @@
             {
               "node_type": "item",
               "title": "Telegram",
-              "description": null,
+              "description": "ebertti/awesome-telegram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4167,10 +4167,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-21T12:24:17Z",
-                "open_issues": 17,
+                "open_issues": 19,
                 "owner": "ebertti",
                 "repo": "awesome-telegram",
-                "stars": 5882,
+                "stars": 5883,
                 "topics": [
                   "awesome-list",
                   "telegram"
@@ -4181,12 +4181,12 @@
             {
               "node_type": "item",
               "title": "CSS",
-              "description": null,
+              "description": "awesome-css-group/awesome-css",
               "children": [
                 {
                   "node_type": "item",
                   "title": "CSS Frameworks",
-                  "description": null,
+                  "description": "troxler/awesome-css-frameworks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4199,7 +4199,7 @@
                     "open_issues": 4,
                     "owner": "troxler",
                     "repo": "awesome-css-frameworks",
-                    "stars": 9538,
+                    "stars": 9539,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -4225,7 +4225,7 @@
                 "open_issues": 30,
                 "owner": "awesome-css-group",
                 "repo": "awesome-css",
-                "stars": 5639,
+                "stars": 5641,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4238,7 +4238,7 @@
             {
               "node_type": "item",
               "title": "MLOps",
-              "description": null,
+              "description": "kelvins/awesome-mlops",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4268,7 +4268,7 @@
             {
               "node_type": "item",
               "title": "Science Fiction",
-              "description": null,
+              "description": "sindresorhus/awesome-scifi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4299,7 +4299,7 @@
             {
               "node_type": "item",
               "title": "Graph Classification",
-              "description": null,
+              "description": "benedekrozemberczki/awesome-graph-classification",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4341,7 +4341,7 @@
             {
               "node_type": "item",
               "title": "Vehicle Security",
-              "description": null,
+              "description": "jaredthecoder/awesome-vehicle-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4354,7 +4354,7 @@
                 "open_issues": 7,
                 "owner": "jaredthecoder",
                 "repo": "awesome-vehicle-security",
-                "stars": 4679,
+                "stars": 4681,
                 "topics": [
                   "automotive",
                   "awesome",
@@ -4375,7 +4375,7 @@
             {
               "node_type": "item",
               "title": "Jupyter",
-              "description": null,
+              "description": "markusschanta/awesome-jupyter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4384,7 +4384,7 @@
                 "id": 101582879,
                 "language": null,
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-01T23:58:31Z",
+                "last_commit": "2026-10-03T02:24:01Z",
                 "open_issues": 8,
                 "owner": "markusschanta",
                 "repo": "awesome-jupyter",
@@ -4410,7 +4410,7 @@
             {
               "node_type": "item",
               "title": "SVG",
-              "description": null,
+              "description": "willianjusten/awesome-svg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4423,7 +4423,7 @@
                 "open_issues": 51,
                 "owner": "willianjusten",
                 "repo": "awesome-svg",
-                "stars": 4652,
+                "stars": 4651,
                 "topics": [
                   "awesome-list",
                   "svg"
@@ -4434,7 +4434,7 @@
             {
               "node_type": "item",
               "title": "Internet of Things (IOT)",
-              "description": null,
+              "description": "HQarroum/awesome-iot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4463,7 +4463,7 @@
             {
               "node_type": "item",
               "title": "Data Visualization",
-              "description": null,
+              "description": "hal9ai/awesome-dataviz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4491,7 +4491,7 @@
             {
               "node_type": "item",
               "title": "Pentest Cheat Sheets",
-              "description": null,
+              "description": "coreb1t/awesome-pentest-cheat-sheets",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4520,7 +4520,7 @@
             {
               "node_type": "item",
               "title": "Analytics",
-              "description": null,
+              "description": "oxnr/awesome-analytics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4541,7 +4541,7 @@
             {
               "node_type": "item",
               "title": "REST",
-              "description": null,
+              "description": "marmelab/awesome-rest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4565,7 +4565,7 @@
             {
               "node_type": "item",
               "title": "Robotic Tooling",
-              "description": null,
+              "description": "Ly0n/awesome-robotic-tooling",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4607,7 +4607,7 @@
             {
               "node_type": "item",
               "title": "Nginx",
-              "description": null,
+              "description": "fcambus/nginx-resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4635,7 +4635,7 @@
             {
               "node_type": "item",
               "title": "Landing Page",
-              "description": null,
+              "description": "nordicgiant2/awesome-landing-page",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4656,7 +4656,7 @@
             {
               "node_type": "item",
               "title": "Vulkan",
-              "description": null,
+              "description": "vinjn/awesome-vulkan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4687,7 +4687,7 @@
             {
               "node_type": "item",
               "title": "Services Engineering",
-              "description": null,
+              "description": "mmcgrana/services-engineering",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4708,7 +4708,7 @@
             {
               "node_type": "item",
               "title": "Mental Health",
-              "description": null,
+              "description": "dreamingechoes/awesome-mental-health",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4718,10 +4718,10 @@
                 "language": "HTML",
                 "license": "CC0-1.0",
                 "last_commit": "2025-05-02T20:01:45Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "dreamingechoes",
                 "repo": "awesome-mental-health",
-                "stars": 3656,
+                "stars": 3657,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4735,7 +4735,7 @@
             {
               "node_type": "item",
               "title": "WebComponents",
-              "description": null,
+              "description": "web-padawan/awesome-web-components",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4748,7 +4748,7 @@
                 "open_issues": 23,
                 "owner": "web-padawan",
                 "repo": "awesome-web-components",
-                "stars": 3589,
+                "stars": 3590,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4763,7 +4763,7 @@
             {
               "node_type": "item",
               "title": "No Login Web Apps",
-              "description": null,
+              "description": "aviaryan/awesome-no-login-web-apps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4773,7 +4773,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-25T08:32:52Z",
-                "open_issues": 178,
+                "open_issues": 182,
                 "owner": "aviaryan",
                 "repo": "awesome-no-login-web-apps",
                 "stars": 3376,
@@ -4795,7 +4795,7 @@
             {
               "node_type": "item",
               "title": "Dev Env",
-              "description": null,
+              "description": "jondot/awesome-devenv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4808,7 +4808,7 @@
                 "open_issues": 43,
                 "owner": "jondot",
                 "repo": "awesome-devenv",
-                "stars": 3359,
+                "stars": 3360,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:01.609Z"
@@ -4816,7 +4816,7 @@
             {
               "node_type": "item",
               "title": "Web Effect",
-              "description": null,
+              "description": "lindelof/awesome-web-effect",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4829,7 +4829,7 @@
                 "open_issues": 3,
                 "owner": "lindelof",
                 "repo": "awesome-web-effect",
-                "stars": 3163,
+                "stars": 3164,
                 "topics": [
                   "awesome",
                   "web-effect"
@@ -4840,7 +4840,7 @@
             {
               "node_type": "item",
               "title": "Git",
-              "description": null,
+              "description": "dictcp/awesome-git",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4850,10 +4850,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-07T07:00:27Z",
-                "open_issues": 89,
+                "open_issues": 90,
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2950,
+                "stars": 2949,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4866,7 +4866,7 @@
             {
               "node_type": "item",
               "title": "Software Architecture",
-              "description": null,
+              "description": "simonaronsson/awesome-software-architecture",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4879,7 +4879,7 @@
                 "open_issues": 3,
                 "owner": "simonaronsson",
                 "repo": "awesome-software-architecture",
-                "stars": 2899,
+                "stars": 2901,
                 "topics": [
                   "architecture",
                   "awesome",
@@ -4893,7 +4893,7 @@
             {
               "node_type": "item",
               "title": "HTML5",
-              "description": null,
+              "description": "diegocard/awesome-html5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4918,7 +4918,7 @@
             {
               "node_type": "item",
               "title": "Sustainable Technology",
-              "description": null,
+              "description": "protontypes/open-sustainable-technology",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4927,8 +4927,8 @@
                 "id": 296566912,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-01T04:59:05Z",
-                "open_issues": 87,
+                "last_commit": "2026-10-02T17:12:39Z",
+                "open_issues": 86,
                 "owner": "protontypes",
                 "repo": "open-sustainable-technology",
                 "stars": 2558,
@@ -4960,7 +4960,7 @@
             {
               "node_type": "item",
               "title": "Images",
-              "description": null,
+              "description": "heyalexej/awesome-images",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4981,7 +4981,7 @@
             {
               "node_type": "item",
               "title": "Decision Tree Papers",
-              "description": null,
+              "description": "benedekrozemberczki/awesome-decision-tree-papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5023,7 +5023,7 @@
             {
               "node_type": "item",
               "title": "Community Detection",
-              "description": null,
+              "description": "benedekrozemberczki/awesome-community-detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5065,12 +5065,12 @@
             {
               "node_type": "item",
               "title": "Testing",
-              "description": null,
+              "description": "TheJambo/awesome-testing",
               "children": [
                 {
                   "node_type": "item",
                   "title": "JMeter",
-                  "description": null,
+                  "description": "aliesbelik/awesome-jmeter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5124,7 +5124,7 @@
             {
               "node_type": "item",
               "title": "Startup",
-              "description": null,
+              "description": "KrishMunot/awesome-startup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5134,10 +5134,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-08-26T21:03:38Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "KrishMunot",
                 "repo": "awesome-startup",
-                "stars": 2358,
+                "stars": 2360,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -5165,7 +5165,7 @@
             {
               "node_type": "item",
               "title": "Workshops",
-              "description": null,
+              "description": "therebelrobot/awesome-workshopper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5186,12 +5186,12 @@
             {
               "node_type": "item",
               "title": "Speech and Natural Language Processing",
-              "description": null,
+              "description": "edobashira/speech-language-processing",
               "children": [
                 {
                   "node_type": "item",
                   "title": "NLP with Ruby",
-                  "description": null,
+                  "description": "arbox/nlp-with-ruby",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5242,7 +5242,7 @@
             {
               "node_type": "item",
               "title": "JVM",
-              "description": null,
+              "description": "deephacks/awesome-jvm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5263,7 +5263,7 @@
             {
               "node_type": "item",
               "title": "Linux Containers",
-              "description": null,
+              "description": "Friz-zy/awesome-linux-containers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5289,7 +5289,7 @@
             {
               "node_type": "item",
               "title": "Crypto Papers",
-              "description": null,
+              "description": "pFarb/awesome-crypto-papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5317,7 +5317,7 @@
             {
               "node_type": "item",
               "title": "Fonts",
-              "description": null,
+              "description": "brabadu/awesome-fonts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5330,7 +5330,7 @@
                 "open_issues": 12,
                 "owner": "brabadu",
                 "repo": "awesome-fonts",
-                "stars": 2073,
+                "stars": 2075,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -5347,7 +5347,7 @@
             {
               "node_type": "item",
               "title": "Continuous Delivery",
-              "description": null,
+              "description": "cicdops/awesome-ciandcd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5368,7 +5368,7 @@
             {
               "node_type": "item",
               "title": "Xamarin",
-              "description": null,
+              "description": "XamSome/awesome-xamarin",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5396,7 +5396,7 @@
             {
               "node_type": "item",
               "title": "Fraud Detection Papers",
-              "description": null,
+              "description": "benedekrozemberczki/awesome-fraud-detection-papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5438,7 +5438,7 @@
             {
               "node_type": "item",
               "title": "Regex",
-              "description": null,
+              "description": "aloisdg/awesome-regex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5462,7 +5462,7 @@
             {
               "node_type": "item",
               "title": "Flask",
-              "description": null,
+              "description": "mjhea0/awesome-flask",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5488,7 +5488,7 @@
             {
               "node_type": "item",
               "title": "UNIX",
-              "description": null,
+              "description": "sirredbeard/awesome-unix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5529,7 +5529,7 @@
             {
               "node_type": "item",
               "title": "DevSecOps",
-              "description": null,
+              "description": "jakob-pennington/awesome-devsecops",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5558,7 +5558,7 @@
             {
               "node_type": "item",
               "title": "Remote Work",
-              "description": null,
+              "description": "hugo53/awesome-RemoteWork",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5589,7 +5589,7 @@
             {
               "node_type": "item",
               "title": "JSON",
-              "description": null,
+              "description": "burningtree/awesome-json",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5599,7 +5599,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-06-19T12:25:07Z",
-                "open_issues": 123,
+                "open_issues": 124,
                 "owner": "burningtree",
                 "repo": "awesome-json",
                 "stars": 1571,
@@ -5613,7 +5613,7 @@
             {
               "node_type": "item",
               "title": "Typography",
-              "description": null,
+              "description": "Jolg42/awesome-typography",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5626,7 +5626,7 @@
                 "open_issues": 9,
                 "owner": "Jolg42",
                 "repo": "awesome-typography",
-                "stars": 1539,
+                "stars": 1540,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -5653,7 +5653,7 @@
             {
               "node_type": "item",
               "title": "Wordpress",
-              "description": null,
+              "description": "miziomon/awesome-wordpress",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5674,7 +5674,7 @@
             {
               "node_type": "item",
               "title": "Agile",
-              "description": null,
+              "description": "lorabv/awesome-agile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5716,7 +5716,7 @@
             {
               "node_type": "item",
               "title": "Bootstrap",
-              "description": null,
+              "description": "awesome-bootstrap-org/awesome-bootstrap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5741,7 +5741,7 @@
             {
               "node_type": "item",
               "title": "Captcha",
-              "description": null,
+              "description": "ZYSzys/awesome-captcha",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5751,10 +5751,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T23:34:45Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "ZYSzys",
                 "repo": "awesome-captcha",
-                "stars": 1430,
+                "stars": 1431,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -5775,7 +5775,7 @@
             {
               "node_type": "item",
               "title": "Boilerplates",
-              "description": null,
+              "description": "melvin0008/awesome-projects-boilerplates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5796,12 +5796,12 @@
             {
               "node_type": "item",
               "title": "Database",
-              "description": null,
+              "description": "numetriclabz/awesome-db",
               "children": [
                 {
                   "node_type": "item",
                   "title": "SQLAlchemy",
-                  "description": null,
+                  "description": "dahlia/awesome-sqlalchemy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5814,7 +5814,7 @@
                     "open_issues": 11,
                     "owner": "dahlia",
                     "repo": "awesome-sqlalchemy",
-                    "stars": 3063,
+                    "stars": 3064,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -5840,7 +5840,7 @@
                 "open_issues": 40,
                 "owner": "numetriclabz",
                 "repo": "awesome-db",
-                "stars": 1378,
+                "stars": 1379,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:00:01.609Z"
@@ -5848,7 +5848,7 @@
             {
               "node_type": "item",
               "title": "Mobile Web Development",
-              "description": null,
+              "description": "myshov/awesome-mobile-web-development",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5861,7 +5861,7 @@
                 "open_issues": 4,
                 "owner": "myshov",
                 "repo": "awesome-mobile-web-development",
-                "stars": 1289,
+                "stars": 1290,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -5875,7 +5875,7 @@
             {
               "node_type": "item",
               "title": "Random-Forest",
-              "description": null,
+              "description": "kjw0612/awesome-random-forest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5896,16 +5896,16 @@
             {
               "node_type": "item",
               "title": "micro:bit",
-              "description": null,
+              "description": "carlosperate/awesome-microbit",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "description": "A curated list of BBC micro:bit resources.",
                 "homepage": "https://bsky.app/profile/awesomemicrobit.bsky.social",
                 "id": 65635555,
-                "language": "HTML",
+                "language": "CSS",
                 "license": "CC0-1.0",
-                "last_commit": "2026-05-21T21:57:24Z",
+                "last_commit": "2026-10-02T22:43:29Z",
                 "open_issues": 6,
                 "owner": "carlosperate",
                 "repo": "awesome-microbit",
@@ -5922,7 +5922,7 @@
             {
               "node_type": "item",
               "title": "Sublime Text",
-              "description": null,
+              "description": "dreikanter/sublime-bookmarks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5949,7 +5949,7 @@
             {
               "node_type": "item",
               "title": "Gradient Boosting Papers",
-              "description": null,
+              "description": "benedekrozemberczki/awesome-gradient-boosting-papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5991,7 +5991,7 @@
             {
               "node_type": "item",
               "title": "Sheet Music",
-              "description": null,
+              "description": "ad-si/awesome-sheet-music",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6016,7 +6016,7 @@
             {
               "node_type": "item",
               "title": "Sphinx Documentation",
-              "description": null,
+              "description": "ygzgxyz/awesome-sphinxdoc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6046,7 +6046,7 @@
             {
               "node_type": "item",
               "title": "Beacons",
-              "description": null,
+              "description": "rabschi/awesome-beacon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6074,7 +6074,7 @@
             {
               "node_type": "item",
               "title": "Slack",
-              "description": null,
+              "description": "matiassingers/awesome-slack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6100,7 +6100,7 @@
             {
               "node_type": "item",
               "title": "DevOps",
-              "description": null,
+              "description": "joubertredrat/awesome-devops",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6121,12 +6121,12 @@
             {
               "node_type": "item",
               "title": "Apple",
-              "description": null,
+              "description": "joeljfischer/awesome-apple",
               "children": [
                 {
                   "node_type": "item",
                   "title": "OS X",
-                  "description": null,
+                  "description": "iCHAIT/awesome-macOS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6136,10 +6136,10 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-08-23T18:27:23Z",
-                    "open_issues": 202,
+                    "open_issues": 207,
                     "owner": "iCHAIT",
                     "repo": "awesome-macOS",
-                    "stars": 19280,
+                    "stars": 19284,
                     "topics": [
                       "apple",
                       "awesome",
@@ -6155,7 +6155,7 @@
                 {
                   "node_type": "item",
                   "title": "OS X and iOS Security",
-                  "description": null,
+                  "description": "ashishb/osx-and-ios-security-awesome",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6201,7 +6201,7 @@
             {
               "node_type": "item",
               "title": "Conferences",
-              "description": null,
+              "description": "RichardLitt/awesome-conferences",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6214,7 +6214,7 @@
                 "open_issues": 2,
                 "owner": "RichardLitt",
                 "repo": "awesome-conferences",
-                "stars": 791,
+                "stars": 790,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -6229,7 +6229,7 @@
             {
               "node_type": "item",
               "title": "Gists",
-              "description": null,
+              "description": "vsouza/awesome-gists",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6254,12 +6254,12 @@
             {
               "node_type": "item",
               "title": "Monitoring",
-              "description": null,
+              "description": "crazy-canux/awesome-monitoring",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Prometheus alerting rules",
-                  "description": null,
+                  "description": "samber/awesome-prometheus-alerts",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6296,7 +6296,7 @@
                 {
                   "node_type": "item",
                   "title": "Monte Carlo Tree Search Papers",
-                  "description": null,
+                  "description": "benedekrozemberczki/awesome-monte-carlo-tree-search-papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6334,7 +6334,7 @@
                 {
                   "node_type": "item",
                   "title": "Prometheus",
-                  "description": null,
+                  "description": "roaldnefs/awesome-prometheus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6390,7 +6390,7 @@
             {
               "node_type": "item",
               "title": "Algolia",
-              "description": null,
+              "description": "algolia/awesome-algolia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6403,7 +6403,7 @@
                 "open_issues": 2,
                 "owner": "algolia",
                 "repo": "awesome-algolia",
-                "stars": 744,
+                "stars": 743,
                 "topics": [
                   "algolia",
                   "awesome",
@@ -6415,7 +6415,7 @@
             {
               "node_type": "item",
               "title": "Styleguides",
-              "description": null,
+              "description": "RichardLitt/awesome-styleguides",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6443,7 +6443,7 @@
             {
               "node_type": "item",
               "title": "Arduino",
-              "description": null,
+              "description": "Lembed/Awesome-arduino",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6467,12 +6467,12 @@
             {
               "node_type": "item",
               "title": "Kikobeats/awesome-github",
-              "description": null,
+              "description": "Kikobeats/awesome-github",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Browser extensions for GitHub",
-                  "description": null,
+                  "description": "stefanbuck/awesome-browser-extensions-for-github",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6485,7 +6485,7 @@
                     "open_issues": 29,
                     "owner": "stefanbuck",
                     "repo": "awesome-browser-extensions-for-github",
-                    "stars": 3304,
+                    "stars": 3306,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -6501,7 +6501,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub - Chinese",
-                  "description": null,
+                  "description": "AntBranch/awesome-github",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6546,7 +6546,7 @@
                 "open_issues": 2,
                 "owner": "Kikobeats",
                 "repo": "awesome-github",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -6560,7 +6560,7 @@
             {
               "node_type": "item",
               "title": "Open Source Photography",
-              "description": null,
+              "description": "ibaaj/awesome-OpenSourcePhotography",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6581,7 +6581,7 @@
             {
               "node_type": "item",
               "title": "Free Open Source Software (FOSS)",
-              "description": null,
+              "description": "ishanvyas22/awesome-open-source-systems",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6594,7 +6594,7 @@
                 "open_issues": 12,
                 "owner": "ishanvyas22",
                 "repo": "awesome-open-source-systems",
-                "stars": 663,
+                "stars": 665,
                 "topics": [
                   "analytics",
                   "application-monitoring",
@@ -6621,7 +6621,7 @@
             {
               "node_type": "item",
               "title": "Material Design",
-              "description": null,
+              "description": "sachin1092/awesome-material",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6642,7 +6642,7 @@
             {
               "node_type": "item",
               "title": "Capacitor",
-              "description": null,
+              "description": "riderx/awesome-capacitor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6655,7 +6655,7 @@
                 "open_issues": 4,
                 "owner": "riderx",
                 "repo": "awesome-capacitor",
-                "stars": 639,
+                "stars": 637,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -6669,7 +6669,7 @@
             {
               "node_type": "item",
               "title": "Serverless Security",
-              "description": null,
+              "description": "puresec/awesome-serverless-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6699,7 +6699,7 @@
             {
               "node_type": "item",
               "title": "Vagrant",
-              "description": null,
+              "description": "iJackUA/awesome-vagrant",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6726,7 +6726,7 @@
             {
               "node_type": "item",
               "title": "Growth Hacking",
-              "description": null,
+              "description": "bekatom/awesome-growth-hacking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6736,7 +6736,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T17:41:34Z",
-                "open_issues": 15,
+                "open_issues": 17,
                 "owner": "bekatom",
                 "repo": "awesome-growth-hacking",
                 "stars": 536,
@@ -6749,7 +6749,7 @@
             {
               "node_type": "item",
               "title": "Koans",
-              "description": null,
+              "description": "ahmdrefat/awesome-koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6770,7 +6770,7 @@
             {
               "node_type": "item",
               "title": "Lego",
-              "description": null,
+              "description": "ad-si/awesome-lego",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6797,7 +6797,7 @@
             {
               "node_type": "item",
               "title": "Internationalization",
-              "description": null,
+              "description": "oh-jon-paul/awesome-i18n",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6829,7 +6829,7 @@
             {
               "node_type": "item",
               "title": "Matlab",
-              "description": null,
+              "description": "mikecroucher/awesome-MATLAB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6850,7 +6850,7 @@
             {
               "node_type": "item",
               "title": "ARM Exploitation",
-              "description": null,
+              "description": "HenryHoggard/awesome-arm-exploitation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6877,7 +6877,7 @@
             {
               "node_type": "item",
               "title": "Product Manager",
-              "description": null,
+              "description": "hugo53/awesome-ProductManager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6901,7 +6901,7 @@
             {
               "node_type": "item",
               "title": "Cordova",
-              "description": null,
+              "description": "busterc/awesome-cordova",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6931,7 +6931,7 @@
             {
               "node_type": "item",
               "title": "Linux resources",
-              "description": null,
+              "description": "itech001/awesome-linux-resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6952,7 +6952,7 @@
             {
               "node_type": "item",
               "title": "Code Formatters",
-              "description": null,
+              "description": "rishirdua/awesome-code-formatters",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6973,7 +6973,7 @@
             {
               "node_type": "item",
               "title": "Philosophy",
-              "description": null,
+              "description": "HussainAther/awesome-philosophy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7004,7 +7004,7 @@
             {
               "node_type": "item",
               "title": "Kafka",
-              "description": null,
+              "description": "monksy/awesome-kafka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7031,7 +7031,7 @@
             {
               "node_type": "item",
               "title": "Building Blocks for Web Apps",
-              "description": null,
+              "description": "componently-com/awesome-building-blocks-for-web-apps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7058,7 +7058,7 @@
             {
               "node_type": "item",
               "title": "Conversational UI",
-              "description": null,
+              "description": "mortenjust/awesome-conversational",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7079,7 +7079,7 @@
             {
               "node_type": "item",
               "title": "Podcasts",
-              "description": null,
+              "description": "ghosh/awesome-podcasts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7092,7 +7092,7 @@
                 "open_issues": 6,
                 "owner": "ghosh",
                 "repo": "awesome-podcasts",
-                "stars": 186,
+                "stars": 185,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -7108,7 +7108,7 @@
             {
               "node_type": "item",
               "title": "Open Science",
-              "description": null,
+              "description": "silky/awesome-open-science",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7129,7 +7129,7 @@
             {
               "node_type": "item",
               "title": "Challenges",
-              "description": null,
+              "description": "mauriciovieira/awesome-challenges",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7150,12 +7150,12 @@
             {
               "node_type": "item",
               "title": "Space",
-              "description": null,
+              "description": "elburz/awesome-space",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Books and manuals",
-                  "description": null,
+                  "description": "Hunter-Github/awesome-space-books",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7200,7 +7200,7 @@
             {
               "node_type": "item",
               "title": "Sound",
-              "description": null,
+              "description": "hwclass/awesome-sound",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7221,7 +7221,7 @@
             {
               "node_type": "item",
               "title": "FIRST Robotics Competition",
-              "description": null,
+              "description": "andrewda/awesome-frc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7248,7 +7248,7 @@
             {
               "node_type": "item",
               "title": "Mobile marketing and development",
-              "description": null,
+              "description": "alec-c4/awesome-mobile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7269,7 +7269,7 @@
             {
               "node_type": "item",
               "title": "Ethics",
-              "description": null,
+              "description": "HussainAther/awesome-ethics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7296,7 +7296,7 @@
             {
               "node_type": "item",
               "title": "Image coloring",
-              "description": null,
+              "description": "oskar-j/awesome-image-coloring",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7322,7 +7322,7 @@
             {
               "node_type": "item",
               "title": "BSD Software",
-              "description": null,
+              "description": "SaintFenix/Awesome-BSD-Ports-Programs-And-Projects",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7351,12 +7351,12 @@
             {
               "node_type": "item",
               "title": "UI Styleguide",
-              "description": null,
+              "description": "kevinwuhoo/ui-styleguides",
               "children": [
                 {
                   "node_type": "item",
                   "title": "UI Components for Styleguide",
-                  "description": null,
+                  "description": "anubhavsrivastava/awesome-ui-component-library",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7369,7 +7369,7 @@
                     "open_issues": 4,
                     "owner": "anubhavsrivastava",
                     "repo": "awesome-ui-component-library",
-                    "stars": 1723,
+                    "stars": 1724,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -7415,7 +7415,7 @@
             {
               "node_type": "item",
               "title": "Swedish",
-              "description": null,
+              "description": "gurre/awesome-swedish-opensource",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7436,7 +7436,7 @@
             {
               "node_type": "item",
               "title": "Service Fabric",
-              "description": null,
+              "description": "lawrencegripper/awesome-servicefabric",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7457,7 +7457,7 @@
             {
               "node_type": "item",
               "title": "Taglines",
-              "description": null,
+              "description": "miketheman/awesome-taglines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7486,7 +7486,7 @@
             {
               "node_type": "item",
               "title": "Twilio",
-              "description": null,
+              "description": "Twilio-org/awesome-twilio",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7507,7 +7507,7 @@
             {
               "node_type": "item",
               "title": "Motion Design for Web",
-              "description": null,
+              "description": "lucasmaiaesilva/awesome-motion-design-web",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7528,7 +7528,7 @@
             {
               "node_type": "item",
               "title": "FluidApp Resources",
-              "description": null,
+              "description": "lborgav/awesome-fluidapp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7554,7 +7554,7 @@
                 {
                   "node_type": "item",
                   "title": "by @a11yproject",
-                  "description": null,
+                  "description": "a11yproject/a11yproject.com",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7567,7 +7567,7 @@
                     "open_issues": 107,
                     "owner": "a11yproject",
                     "repo": "a11yproject.com",
-                    "stars": 3894,
+                    "stars": 3895,
                     "topics": [
                       "a11y",
                       "accessibility",
@@ -7581,7 +7581,7 @@
                 {
                   "node_type": "item",
                   "title": "by @brunopulis",
-                  "description": null,
+                  "description": "brunopulis/awesome-a11y",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7617,7 +7617,7 @@
                 {
                   "node_type": "item",
                   "title": "by @Kikobeats",
-                  "description": null,
+                  "description": "Kikobeats/awesome-api",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7641,7 +7641,7 @@
                 {
                   "node_type": "item",
                   "title": "by @toddmotto",
-                  "description": null,
+                  "description": "toddmotto/public-apis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7669,7 +7669,7 @@
                 {
                   "node_type": "item",
                   "title": "by @onurakpolat",
-                  "description": null,
+                  "description": "oxnr/awesome-bigdata",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7682,7 +7682,7 @@
                     "open_issues": 6,
                     "owner": "oxnr",
                     "repo": "awesome-bigdata",
-                    "stars": 14657,
+                    "stars": 14658,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -7706,7 +7706,7 @@
                 {
                   "node_type": "item",
                   "title": "Hadoop",
-                  "description": null,
+                  "description": "youngwookim/awesome-hadoop",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7727,7 +7727,7 @@
                 {
                   "node_type": "item",
                   "title": "by @zenkay",
-                  "description": null,
+                  "description": "zenkay/bigdata-ecosystem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7755,7 +7755,7 @@
                 {
                   "node_type": "item",
                   "title": "by @kennethreitz",
-                  "description": null,
+                  "description": "Zheaoli/awesome-coins",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7791,7 +7791,7 @@
                 {
                   "node_type": "item",
                   "title": "by @openblockchains",
-                  "description": null,
+                  "description": "openblockchains/awesome-blockchains",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7827,7 +7827,7 @@
                 {
                   "node_type": "item",
                   "title": "by @imbaniac",
-                  "description": null,
+                  "description": "imbaniac/awesome-blockchain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7857,7 +7857,7 @@
                 {
                   "node_type": "item",
                   "title": "by @igorbarinov",
-                  "description": null,
+                  "description": "igorbarinov/awesome-blockchain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7878,7 +7878,7 @@
                 {
                   "node_type": "item",
                   "title": "by @coderplex",
-                  "description": null,
+                  "description": "coderplex-org/awesome-blockchain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7899,7 +7899,7 @@
                 {
                   "node_type": "item",
                   "title": "Ripple",
-                  "description": null,
+                  "description": "vhpoet/awesome-ripple",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7923,7 +7923,7 @@
                 {
                   "node_type": "item",
                   "title": "by @hitripod",
-                  "description": null,
+                  "description": "hitripod/awesome-blockchain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7949,7 +7949,7 @@
                 {
                   "node_type": "item",
                   "title": "by @0xtokens",
-                  "description": null,
+                  "description": "0xtokens/awesome-blockchain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7984,7 +7984,7 @@
                 {
                   "node_type": "item",
                   "title": "by @istinspring",
-                  "description": null,
+                  "description": "oiwn/awesome-fhe-cryptography",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8005,7 +8005,7 @@
                 {
                   "node_type": "item",
                   "title": "by @iNiKe",
-                  "description": null,
+                  "description": "iNiKe/awesome-blockchain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8047,7 +8047,7 @@
                     {
                       "node_type": "item",
                       "title": "by @igorbarinov",
-                      "description": null,
+                      "description": "igorbarinov/awesome-bitcoin",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8068,7 +8068,7 @@
                     {
                       "node_type": "item",
                       "title": "Bitcoin Payment Processors",
-                      "description": null,
+                      "description": "alexk111/awesome-bitcoin-payment-processors",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8100,7 +8100,7 @@
                     {
                       "node_type": "item",
                       "title": "by @btcbrdev",
-                      "description": null,
+                      "description": "btcbrdev/awesome-btcdev",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8128,7 +8128,7 @@
                     {
                       "node_type": "item",
                       "title": "awesome-ethereum-virtual-machine",
-                      "description": null,
+                      "description": "pirapira/awesome-ethereum-virtual-machine",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8149,7 +8149,7 @@
                     {
                       "node_type": "item",
                       "title": "by @Tom2718",
-                      "description": null,
+                      "description": "ttumiel/Awesome-Ethereum",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8174,7 +8174,7 @@
                     {
                       "node_type": "item",
                       "title": "by @vinsgo",
-                      "description": null,
+                      "description": "lampGit/awesome-ethereum",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -8204,7 +8204,7 @@
                 {
                   "node_type": "item",
                   "title": "Free Programming Books",
-                  "description": null,
+                  "description": "EbookFoundation/free-programming-books",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8213,11 +8213,11 @@
                     "id": 13491895,
                     "language": "Python",
                     "license": "CC-BY-4.0",
-                    "last_commit": "2026-09-24T12:26:41Z",
-                    "open_issues": 102,
+                    "last_commit": "2026-10-02T19:35:16Z",
+                    "open_issues": 85,
                     "owner": "EbookFoundation",
                     "repo": "free-programming-books",
-                    "stars": 398311,
+                    "stars": 398349,
                     "topics": [
                       "books",
                       "education",
@@ -8231,7 +8231,7 @@
                 {
                   "node_type": "item",
                   "title": "Mind Expanding Books",
-                  "description": null,
+                  "description": "hackerkid/Mind-Expanding-Books",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8244,7 +8244,7 @@
                     "open_issues": 33,
                     "owner": "hackerkid",
                     "repo": "Mind-Expanding-Books",
-                    "stars": 14328,
+                    "stars": 14331,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -8270,7 +8270,7 @@
                 {
                   "node_type": "item",
                   "title": "Free Software Testing Books",
-                  "description": null,
+                  "description": "ligurio/sqa-wiki",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8309,7 +8309,7 @@
                 {
                   "node_type": "item",
                   "title": "by @sobolevn",
-                  "description": null,
+                  "description": "sobolevn/awesome-cryptography",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8337,7 +8337,7 @@
                 {
                   "node_type": "item",
                   "title": "by @coinpride",
-                  "description": null,
+                  "description": "coinpride/CryptoList",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8375,7 +8375,7 @@
                 {
                   "node_type": "item",
                   "title": "by @MaciejCzyzewski",
-                  "description": null,
+                  "description": "maciejczyzewski/retter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8403,7 +8403,7 @@
                 {
                   "node_type": "item",
                   "title": "by @caesar0301",
-                  "description": null,
+                  "description": "awesomedata/awesome-public-datasets",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8412,11 +8412,11 @@
                     "id": 26898879,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-02T15:05:47Z",
+                    "last_commit": "2026-10-02T19:47:28Z",
                     "open_issues": 161,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 79272,
+                    "stars": 79277,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -8429,7 +8429,7 @@
                 {
                   "node_type": "item",
                   "title": "by @leomaurodesenv",
-                  "description": null,
+                  "description": "leomaurodesenv/game-datasets",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8467,7 +8467,7 @@
                 {
                   "node_type": "item",
                   "title": "by @ChristosChristofidis",
-                  "description": null,
+                  "description": "ChristosChristofidis/awesome-deep-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8480,7 +8480,7 @@
                     "open_issues": 88,
                     "owner": "ChristosChristofidis",
                     "repo": "awesome-deep-learning",
-                    "stars": 29000,
+                    "stars": 29002,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -8498,7 +8498,7 @@
                 {
                   "node_type": "item",
                   "title": "by @guillaume-chevalier",
-                  "description": null,
+                  "description": "guillaume-chevalier/Awesome-Deep-Learning-Resources",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8527,7 +8527,7 @@
                 {
                   "node_type": "item",
                   "title": "by @tigerneil",
-                  "description": null,
+                  "description": "tigerneil/awesome-deep-rl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8569,7 +8569,7 @@
                 {
                   "node_type": "item",
                   "title": "by @nerox8664",
-                  "description": null,
+                  "description": "gmalivenko/awesome-computer-vision-models",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8582,7 +8582,7 @@
                     "open_issues": 0,
                     "owner": "gmalivenko",
                     "repo": "awesome-computer-vision-models",
-                    "stars": 544,
+                    "stars": 545,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -8618,7 +8618,7 @@
                 {
                   "node_type": "item",
                   "title": "by @dypsilon",
-                  "description": null,
+                  "description": "dypsilon/frontend-dev-bookmarks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8644,7 +8644,7 @@
                 {
                   "node_type": "item",
                   "title": "by @moklick",
-                  "description": null,
+                  "description": "moklick/frontend-stuff",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8675,7 +8675,7 @@
                 {
                   "node_type": "item",
                   "title": "by @Kikobeats",
-                  "description": null,
+                  "description": "Kikobeats/awesome-gif",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8703,7 +8703,7 @@
                 {
                   "node_type": "item",
                   "title": "by @narkoz",
-                  "description": null,
+                  "description": "NARKOZ/guides",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8716,7 +8716,7 @@
                     "open_issues": 3,
                     "owner": "NARKOZ",
                     "repo": "guides",
-                    "stars": 2426,
+                    "stars": 2427,
                     "topics": [
                       "api",
                       "awesome",
@@ -8734,7 +8734,7 @@
                 {
                   "node_type": "item",
                   "title": "by @RichardLitt",
-                  "description": null,
+                  "description": "RichardLitt/awesome-styleguides",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8769,7 +8769,7 @@
                 {
                   "node_type": "item",
                   "title": "by @Hack-with-Github",
-                  "description": null,
+                  "description": "Hack-with-Github/Awesome-Hacking",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8782,7 +8782,7 @@
                     "open_issues": 43,
                     "owner": "Hack-with-Github",
                     "repo": "Awesome-Hacking",
-                    "stars": 121699,
+                    "stars": 121732,
                     "topics": [
                       "android",
                       "awesome",
@@ -8800,7 +8800,7 @@
                 {
                   "node_type": "item",
                   "title": "by @carpedm20",
-                  "description": null,
+                  "description": "carpedm20/awesome-hacking",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8831,7 +8831,7 @@
                 {
                   "node_type": "item",
                   "title": "by @sindresorhus",
-                  "description": null,
+                  "description": "sindresorhus/awesome",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8844,7 +8844,7 @@
                     "open_issues": 106,
                     "owner": "sindresorhus",
                     "repo": "awesome",
-                    "stars": 513593,
+                    "stars": 513795,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -8857,29 +8857,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "by @bayandin",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A curated list of awesome awesomeness",
-                    "homepage": null,
-                    "id": 21600440,
-                    "language": "Ruby",
-                    "license": null,
-                    "last_commit": "2024-06-02T22:46:41Z",
-                    "open_issues": 65,
-                    "owner": "bayandin",
-                    "repo": "awesome-awesomeness",
-                    "stars": 33696,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:00:01.609Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "by @jnv",
-                  "description": null,
+                  "description": "jnv/lists",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8892,7 +8871,7 @@
                     "open_issues": 32,
                     "owner": "jnv",
                     "repo": "lists",
-                    "stars": 11517,
+                    "stars": 11520,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -8913,7 +8892,7 @@
                 {
                   "node_type": "item",
                   "title": "by @xyNNN",
-                  "description": null,
+                  "description": "xyNNN/awesome-mac",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8934,7 +8913,7 @@
                 {
                   "node_type": "item",
                   "title": "by @justin-j",
-                  "description": null,
+                  "description": "justin-j/awesome-mac-apps",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8962,7 +8941,7 @@
                 {
                   "node_type": "item",
                   "title": "by @vredniy",
-                  "description": null,
+                  "description": "zudochkin/awesome-newsletters",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8975,7 +8954,7 @@
                     "open_issues": 52,
                     "owner": "zudochkin",
                     "repo": "awesome-newsletters",
-                    "stars": 4492,
+                    "stars": 4494,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -8990,7 +8969,7 @@
                 {
                   "node_type": "item",
                   "title": "by @webpro",
-                  "description": null,
+                  "description": "webpro/awesome-newsletters",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9020,7 +8999,7 @@
                 {
                   "node_type": "item",
                   "title": "by @mpron",
-                  "description": null,
+                  "description": "mpron/awesome-newsletters",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9076,7 +9055,7 @@
                 {
                   "node_type": "item",
                   "title": "by @thibmaek",
-                  "description": null,
+                  "description": "thibmaek/awesome-raspberry-pi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9089,7 +9068,7 @@
                     "open_issues": 32,
                     "owner": "thibmaek",
                     "repo": "awesome-raspberry-pi",
-                    "stars": 16943,
+                    "stars": 16945,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -9104,7 +9083,7 @@
                 {
                   "node_type": "item",
                   "title": "by @blackout314",
-                  "description": null,
+                  "description": "blackout314/awesome-raspberry-pi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9138,7 +9117,7 @@
                 {
                   "node_type": "item",
                   "title": "by @marcobiedermann",
-                  "description": null,
+                  "description": "marcobiedermann/search-engine-optimization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9151,7 +9130,7 @@
                     "open_issues": 36,
                     "owner": "marcobiedermann",
                     "repo": "search-engine-optimization",
-                    "stars": 2787,
+                    "stars": 2786,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -9170,7 +9149,7 @@
                 {
                   "node_type": "item",
                   "title": "by @teles",
-                  "description": null,
+                  "description": "teles/awesome-seo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9194,7 +9173,7 @@
                 {
                   "node_type": "item",
                   "title": "by @sneg55",
-                  "description": null,
+                  "description": "sneg55/curatedseotools",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9239,7 +9218,7 @@
                 {
                   "node_type": "item",
                   "title": "by @akrawchyk",
-                  "description": null,
+                  "description": "akrawchyk/awesome-vim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9263,7 +9242,7 @@
                 {
                   "node_type": "item",
                   "title": "by @matteocrippa",
-                  "description": null,
+                  "description": "matteocrippa/awesome-vim",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -9291,7 +9270,7 @@
                 {
                   "node_type": "item",
                   "title": "Ejabberd",
-                  "description": null,
+                  "description": "shantanu-deshmukh/awesome-ejabberd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -9324,7 +9303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:58:59.251Z",
+    "last_updated": "2026-10-03T04:33:40.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome awesomeness",
